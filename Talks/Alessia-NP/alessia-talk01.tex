@@ -1,0 +1,158 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\DeclareSIUnit\angstrom{\text{\r{A}}}
+
+\raggedbottom
+%%\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[Resumen de Charla Nanociencia]{Nanociencia y Materiales
+Avanzados: Resumen de la Charla Impartida por Dav Alessia}
+
+\author{\fnm{Julian L.}
+\sur{Avila-Martinez}}\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\abstract{
+Resumen de la charla impartida por la investigadora Dav Alessia.
+Se sintetizan los principios expuestos sobre nanomateriales, detallando
+las fuerzas intermoleculares como mecanismo rector del autoensamblaje.
+Se documenta su exposición sobre la aplicación de marcos
+metal-orgánicos (MOF) en el suministro localizado de fármacos, las
+propiedades de semiconductores a nanoescala y la estabilización
+electrónica de perovskitas mediante funcionalización con derivados de
+carbono.
+}
+
+\keywords{Química supramolecular, marcos metal-orgánicos, puntos cuánticos,
+perovskitas, fullerenos, confinamiento cuántico}
+
+\maketitle
+
+\section{Fuerzas Intermoleculares y Autoensamblaje}
+\label{sec:fuerzas}
+
+Durante su intervención, Alessia estableció que la comprensión rigurosa de
+la nanociencia exige distinguir entre interacciones intramoleculares e
+intermoleculares. Los enlaces covalentes, iónicos y metálicos
+constituyen fuerzas intramoleculares que definen la estructura intrínseca de
+la molécula. Por el contrario, el diseño de arquitecturas a
+nanoescala está gobernado por interacciones no covalentes, tales como
+interacciones ion-dipolo, dipolo-dipolo, puentes de hidrógeno y fuerzas de
+dispersión.
+
+Estas fuerzas operan a escalas espaciales amplias; mientras un enlace
+intramolecular en el \ce{H2O} exhibe una separación de
+\qty{96}{\pico\meter}, las distancias intermoleculares escalan a
+\qty{300}{\pico\meter}. Esta dilatación espacial impone
+interacciones de menor magnitud, proveyendo la flexibilidad requerida para
+las arquitecturas huésped-hospedador. El rendimiento de este
+autoensamblaje se optimiza mediante la preorganización estructural y el
+efecto quelato, limitando el costo energético durante la asimilación del
+huésped.
+
+\section{Marcos Metal-Orgánicos (MOF) y Terapia Dirigida}
+\label{sec:mof}
+
+La conferencista expuso el funcionamiento de los marcos metal-orgánicos como
+jaulas reticulares que permiten el encapsulamiento de sustancias.
+En aplicaciones biomédicas, estos cristales se emplean como
+vectores oncológicos alojando un fármaco y recubriéndose con ligandos
+direccionales y nanopartículas de oro. Su mecanismo explota
+el gradiente de acidez tisular, catalizando la degradación del MOF en el
+entorno neoplásico, el cual presenta un pH de \num{5.5} en contraste con el
+pH de \num{7.4} de los tejidos sanos.
+
+Las nanopartículas de oro, sintetizadas a partir de \ce{AuCl4-} con
+diámetros ideales de \qtyrange{12}{18}{\nano\meter}, actúan
+como transductores. Absorben luz visible y disipan energía
+térmica en la región infrarroja, induciendo hipertermia localizada para
+erradicar células comprometidas.
+
+\section{Puntos Cuánticos y Semiconductores}
+\label{sec:semiconductores}
+
+Se describieron los nanodots como semiconductores confinados en regímenes de
+\qtyrange{1}{10}{\nano\meter}.
+Sus propiedades ópticas dependen de restricciones impuestas por el confinamiento
+cuántico.
+Al alterar dicho confinamiento, la brecha de energía sufre variaciones que
+provocan desplazamientos espectrales hacia el azul en partículas pequeñas y
+hacia el rojo en dimensiones mayores. Esta fenomenología permite
+absorber radiación ultravioleta y reconvertirla al espectro visible para
+optimizar celdas solares.
+
+Respecto a la generación energética, Alessia detalló el uso de redes
+cristalinas tipo perovskita. Para eludir la toxicidad del plomo,
+la síntesis actual se orienta al estaño. La propensión del
+estaño a oxidarse se compensa mediante integración con fullerenos.
+Estas estructuras de carbono desplazan la densidad electrónica
+hacia su superficie, estableciendo una movilidad de carga que preserva la
+perovskita. Esta lógica funcional aplica igualmente al
+integrar grafeno y nanotubos de carbono monocapa y multicapa.
+
+\section{Dispositivos Moleculares}
+\label{sec:dispositivos}
+
+La presentación abordó la convergencia entre síntesis química y
+mecánica fundamental para construir ensamblajes dinámicos.
+Estructuras como los rotaxanos ejecutan traslaciones controladas o actúan
+como interruptores ante estímulos externos como variaciones de pH, diferencia de
+potencial eléctrico o luz.
+De manera análoga a la transformación de ATP en la
+mitocondria, la ingeniería a nanoescala ha desarrollado
+vehículos rotacionales y ascensores moleculares.
+
+\section{Conclusiones}
+\label{sec:conclusion}
+
+La conferencista concluyó que la capacidad de diseñar la materia átomo a
+átomo es un pilar fundamental para el desarrollo biomédico y tecnológico
+. El espectro de acción de estos materiales supramoleculares
+unifica disciplinas, permitiendo reproducir funciones macroscópicas
+mediante el control riguroso de la estructura a nanoescala.
+
+\end{document}

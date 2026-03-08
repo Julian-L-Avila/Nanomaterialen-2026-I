@@ -1,0 +1,1027 @@
+Muchas gracias, compañeros. Qué emocionante, porque yo también estuve ahí donde
+están ustedes hace unos años, eh, y llegó un momento donde no, no, no sabía qué
+hacer, estaba perdida. Eh, menos mal conocí el [risas] el semillero de
+nanotecnología y materiales avanzados, que me dio un poquito de, de orden en
+las ideas hacia dónde quería enfocar mi, mi trabajo y mi investigación. Eh,
+durante esta charla, pues quiero comentarles lo que he trabajado desde el
+pregrado con, pues el profesor Arthur, el profesor César en el semillero de
+materiales avanzados, luego pasando por la maestría. Yo soy doble máster, yo
+tengo un máster en Ingeniería y Arquitectura de Sistemas Solares y en
+Laboratorio Avanzado de Química. Y finalmente, pues actualmente, [risas]
+finalmente, no, tampoco es que me vaya a morir tan pronto, creo. [risas] Pero
+actualmente, eh, [sonido de notificación] estoy trabajando para el Polimat en
+Donostia, San Sebastián, en País Vasco, en la parte española de País Vasco. Y
+trabajo en la línea de química aplicada y síntesis de materiales poliméricos,
+específicamente pues con fullerenos, funcionalización de fullerenos para, eh,
+crear celdas solares de perovskita basadas en es-en estaño. Y yo sé que muchas
+de estas palabras pues les suenan raras, de pronto fullereno, de pronto
+perovskita. Eh, les voy a hablar también de lo que hice en mi tesis de
+maestría, que tiene que ver con MOF, que es otra palabra que, [risas] que les
+va a ser muy importante. Y pues yo creo que desde ya les va, les voy a proponer
+esa pregunta que, que les voy a hacer al final de la sesión y es: ¿de qué
+materiales terminé hablando? Y pues ya, ya les estoy dando la respuesta.
+Fullerenos, perovskitas, MOF. No son los únicos, van a haber más durante la
+charla. Pero antes, eh, pues yo sé que ustedes son estudiantes de Física y si
+quiero hablarles pues de nanotecnología y materiales avanzados desde mi campo,
+que es la química, tengo que pues darles una pequeña introducción a algunos
+pequeños temas. Entonces, eh, vamos a revisar pues lo que son las fuerzas
+intermoleculares e intramoleculares. ¿Listo? Ustedes saben que existen, eh, una
+cosa que une a los elementos para formar compuestos que se llama enlace
+químico. Entonces, por ejemplo, en la sal común tenemos un catión, que son
+átomos cargados positivamente porque perdieron un electrón, y aniones, que son
+átomos cargados negativamente, porque ganaron ese electrón. Entonces, esto hace
+que por ley de Coulomb, que ustedes la conocen muy bien, opuestos-- cargas
+opuestas se atraen, eso genere, pues, eh, un enlace. Este es un tipo de enlace,
+se llama el enlace iónico. Esto es una fuerza intramolecular. ¿Por qué intra y
+no inter? Intra porque está adentro de la molécula, [sonido de notificación]
+¿listo? Inter si fuera por fuera de la molécula. Este es el primer tipo de
+enlace y este se da cuando se junta un no metal y un, eh, metal. El segundo
+tipo es el enlace covalente. Este, por ejemplo, es cómo está, eh, unido el
+agua. En el agua, el hidrógeno y el oxígeno comparten los electrones. No es que
+unos electrones uno se los lleve y el otro se quede sin electrones, como pasa
+en el enlace iónico, sino que en este caso se comparten los electrones. Esto es
+muy importante porque en la nanociencia lo que más trabajamos son
+configuraciones no covalentes. Entonces, es muy raro que haya esa compartición
+[risas] electrónica. Entonces, en el momento en el que ustedes vean un enlace
+que se genera por compartición de electrones, eh, ya no va a entrar dentro de
+nuestra categoría o bueno, específicamente en, en la creación del material.
+Estas fuerzas, pues van a mantener unidas, eh, los átomos en la molécula. En
+este caso, pues tenemos el H2O, el O viene a ser la rojita y las blancas, las
+haches. Las fuerzas intramoleculares establecen las propiedades químicas y los
+tipos de enlace químico. Los tres tipos básicos, pues ya les comenté, son los
+iónicos, donde es ley de Coulomb, los covalentes, donde hay compartición
+electrónica, y los metálicos. Los metálicos, pues son muy curiosos porque los
+metálicos funcionan como si fuera una red de electrones. Entonces, yo siempre
+les hago el ejemplo. Digamos que un enlace iónico es una relación donde una
+persona da mucho y la otra pues no da tanto. Entonces, eso hace que, [risas]
+eh, una perso-- eh, lo que genera el enlace es que una persona está dando todo
+el amor y la otra persona pues está quedando con el amor, pero no está dando
+nada. Es el enlace iónico. El covalente es cuando hay una relación donde ambos
+están compartiendo lo que se están dando. Entonces está muy bien, eh, digamos
+que es una relación más bien sana. Y el enlace metálico es una especie de
+poliamor donde todos los, todos los átomos que conforman la estructura está los
+electrones circulando. Esto hace que, por ejemplo, los metales pues sean buenos
+conductores eléctricos y sean buenos conductores térmicos, porque los
+electrones están fluyendo en todo el sistema. ¿Listo? Hasta acá solo les he
+hablado de fuerzas intramoleculares, lo que permita que las moléculas se
+mantengan juntas. Y estas fuerzas intramoleculares, pues ustedes la conocen
+como enlace químico. Es lo que permite que los enlaces se mantengan. Acá en
+este ejemplo, por ejem-- bueno, este ejemplo tenemos una carga positiva y una
+negativa, se unen y eso gene... [interferencias] ra el enlace iónico, la
+formación de cualquier sal. Los covalentes, eh, se forman con, eh, no metal más
+no metal. Entonces, el carbono, por ejemplo, unido acá al oxígeno, esto forma
+el dióxido de carbono. El metálico, a diferencia, pues tenemos muchas cargas
+positivas porque los electrones están circulando y los electrones son
+negativos. Eso permite que se genere una especie de mar de electrones.
+¿Listo?Estos no solo van a existir dentro de la molécula, sino también va a
+existir entre las moléculas este tipo de fuerzas, pero ya no se van a llamar
+fuerzas intramoleculares, sino lo que va a ser más importante para ustedes, que
+son físicos y para las personas que trabajamos las nanociencias, que son las
+intermoleculares. ¿Listo? [carraspeo] Las fuerzas intermoleculares, pues
+básicamente son las que nos permiten evidenciar los estados de la materia.
+Ustedes saben que la energía potencial que se almacena, por ejemplo, en un
+sólido, eh, está ahí y pues ningún objeto está nunca quieto, están ahí
+vibrando, porque esa es una energía potencial acumulada. A medida que va
+aumentando la temperatura, eh, pues vamos suministrando más energía y esa
+energía potencial empieza a liberarse en forma de energía cinética y es la
+diferencia entre sólido, líquido y gaseoso. Nosotros pues aprovechamos también
+todo esto, poder establecer las energías exactas para generar los momentos y
+las situaciones, eh, propicias para que los estados de nuestras nanopartículas
+pues sean lo más eficientes posibles. ¿Listo? Entonces, eh, esa energía
+potencial llamada fuerza intermolecular, pues también es cuantificable y es muy
+importante que la podamos tener en cuenta. Esto es un trabajo más de ustedes
+los físicos. [carraspeo] Eh, por ejemplo, en el agua podemos ver que en el
+estado líquido, pues las fuerzas intermoleculares, pese a que existen, no son
+tan fuertes como en el estado sólido. En el estado líquido hay un poquito más
+de posibilidad de, eh, movimiento o energía cinética. Y esto influye varias
+propiedades físicas como lo puede ser el punto de ebullición y el punto de
+fusión. Las cuatro fuerzas intermoleculares más importantes son la ion-dipolo,
+la dipolo-dipolo, las, los puentes de hidrógeno y las fuerzas de dispersión.
+Ustedes pues conocen todo esto como, eh, fuerzas de Van der Waals. Eh, la
+ion-dipolo es básicamente si hay un ion, o sea, una partícula cargada, va a
+interaccionar con un dipolo. Me dicen: profe, pero es que el covalente está
+compartiendo electrones, o sea, ¿cómo va a tener polos? Pues el agua, por
+ejemplo, es polar. ¿Qué significa? Que, eh, por ejemplo, el oxígeno va a
+acercarse un poquito más a los electrones y esto va a hacer que el oxígeno sea
+un poquito más negativo que el hidrógeno. Pese a que están compartiendo
+electrones, digamos que ahí también hay una especie de, [carraspeo] de carga
+parcial. ¿Listo? Entonces el ion-dipolo, la explicación más simple es, por
+ejemplo, lo que genera que la sal se disuelva en el agua. Los iones de la sal
+se van a separar y entonces el agua va a tratar de alinear los puntos negativos
+del agua, parcialmente negativos del agua, con los cationes o las cargas
+positivas de la sal. Yyy el hidrógeno, pues se va a alinear con las cargas
+negativas de la sal. De esta manera, pues se separa el-- se disocia, perdón,
+eh, los iones. Igual sabemos que esto es muy fácil de recuperar. Simplemente
+tenemos agua y sal mezcladas, calentamos, se evapora el agua y nos queda la sal
+abajo porque los iones otra vez se van a volver a unir por fuerzas de Coulomb,
+porque positivo y negativo pues se atraen. Diferentes cargas se, se atraen.
+Estas son las cuatro, vamos a revisarlas superrápido. La primera es la
+ion-dipolo. Podemos ver que las cargas parciales negativas, que son el oxígeno,
+se sienten atraídas a las positivas y viceversa. Las dipolo-dipolo, por
+ejemplo, pasa con esta molécula donde tenemos una carga parcial negativa, que
+es la molécula verde, y una positiva, que es la blanca. Entonces, pueden ver
+cómo se alinean en favor de, pues la ley de Coulomb. [risas] Entonces, tenemos
+que la carga negativa se alinea con la positiva y la carga positiva con la
+negativa. Ustedes me dicen profe, pero es que eso es obvio, [risas] eso es
+Física uno, ¿sí? Eh, es, son fuerzas electrostáticas muy básicas. ¿Por qué nos
+está enseñando, eh, esto que pues es tan obvio? Porque resulta que nosotros los
+químicos, cuando trabajamos en el laboratorio de nanociencia, lo que hacemos es
+aprovechar estas interacciones físicas para nuestros, nues-nuestros objetivos
+particulares. Luego están las fuerzas de dispersión, que son dipolos
+temporales. Entonces, tanto moléculas polares como no polares [carraspeo] van a
+tener momentos donde los electrones se van a encontrar en una posición u otra
+en su función de onda. Entonces, esto hace que, eh, generen polos temporales, o
+sea, polos que... eso, de-- están durante un momento. Nosotros qué hacemos, por
+ejemplo, en muchos casos? Forzamos esos polos temporales con campos magnéticos
+o con campos eléctricos. Tenemos acá las fuerzas y podemos ver que las fuerzas
+intermoleculares son mucho más débiles que las intramoleculares. ¿Esto qué
+significa? Pues lo que ustedes, eh, han sabido siempre. La fuerza más fuerte
+del universo es, eh, la fuerza nuclear fuerte, que es la que mantiene unidos
+los protones dentro del núcleo del átomo. Le sigue la fuerza nuclear débil, que
+es la que se encarga de los enlaces químicos. Le sigue la fuerza
+electromagnética, que son las fuerzas electrostáticas de las fuerzas
+intermoleculares. Ahí es donde nos tenemos que parar, porque de nada nos sirve,
+por ejemplo, sintetizar una molécula y luego separarla. Lo que necesitamos es
+coger esa molécula como si fuera una ficha de Lego y empezarla a armar dentro
+de un sistema funcional. Entonces pueden ver acá, por ejemplo, que pues las
+fuerzas de las fuerzas intermoleculares, valga la redundancia, he usado mucho
+la palabra fuerza, casi que parezco una película de Star Wars. Entonces, eh,
+las fuerzas intermoleculares son más débiles que las intramoleculares. ¿Listo?
+Esto ocurre porque, pues las intramoleculares ocurren a distancias muy cortas,
+mientras que las intermoleculares ocurren a largas distancias. Pueden ver que
+la distancia, por ejemplo, entre el hidrógeno y el oxígeno es de noventa y seis
+picómetros. Eso es un enlace químico. Pero en cambio, las intermoleculares,
+pues miren acá la diferencia, son trescientos picómetrosSi aplicamos la ley de
+Coulomb, [risas] teniendo en cuenta que la fuerza es inversa a la distancia,
+entonces pues a mayor distancia tengo menos fuerza. Ahí ya ustedes van viendo
+la relación. También pasa con la carga, porque resulta que, eh, la molécula al
+estar atrayendo el enlace químico, la carga pues va a verse aumentada. Y
+también saben que la ley de Coulomb dice que, eh, la fuerza es directamente
+proporcional a la carga. Y ya, esto era lo que quería decirles, eh, en esta
+primera parte. Fuerzas intramoleculares, fuerzas intermoleculares, no
+confundirlas. Intra, dentro del átomo, son los enlaces. Inter va a ser entre
+moléculas, ¿listo? Ahora sí podemos empezar a hablar de mi presentación [risa].
+E-esa breve introducción es muy importante, ya les voy a decir específicamente
+por qué. Bueno, eh, yo empecé en el semillero Nanotecnología y Materiales
+Avanzados en 2020, cuando se fundó con el profesor Arthur, con el profesor
+César. Eh, tengo muchos antiguos compañeros que hoy están haciendo sus trabajos
+de maestría, de doctorado, pues especialmente el compañero Nicolás Vaca, que,
+que trabaja en el laboratorio también de nanociencia de la Universidad de los
+Andes, haciendo su tesis de maestría. Yyy, pues bueno, esto es un
+autoensamblaje y arquitectura hacia los materiales del futuro, porque mucho de
+cómo [risas] se hacen las relaciones [risas] entre la gente humana he
+encontrado muchas analogías de cómo funcionan dentro del mundo nanoscópico.
+Entonces, eh, la base es la química supramolecular. En la química
+supramolecular existen dos factores: existe un huésped y un hospedador, ¿listo?
+O también se llama anfitrión. Entonces, pueden ver acá arriba... Esperen, si yo
+muevo el mouse, ¿ustedes ven hacia dónde apunta el mouse, profesor Arthur? ¿O
+no se ve? Sí, señor. Sí, se ve. Ah, listo. Sí, qué bueno, porque no tengo
+apuntador, entonces esto va a resultar muy útil [risas]. Entonces, eh, ustedes
+pueden ver acá un ejemplo de cómo tres moléculas al unirse me generan una
+molécula con forma totalmente distinta, ¿cierto? Entonces tenemos un cubo, un
+triángulo y un rombo. Bueno, un rombo en tres dimensiones. Eh, tetraedro que
+llaman, supongo. Eeeh, esto se une, se hace una síntesis química y entonces
+tenemos un material con una nueva configuración tan espacial, principalmente
+espacial. Luego, pues vamos a decir que este va a ser nuestro, eh, anfitrión o
+nuestro hospedador. Ahora, esto es química molecular. Esto es lo que nos
+enseñan a nosotros los químicos. ¿En dónde empieza esa intersección entre
+ingeniería física y química para generar materiales avanzados y nanotecnología?
+Pues empieza en el momento donde empezamos a usar las leyes de ustedes, las
+leyes de los físicos, como es, eh, las, eh, leyes de Coulomb. Y por ejemplo,
+vamos a tener un huésped más un anfitrión y por simple relación de cargas y
+espacios vamos a incluir uno dentro del otro para poder tener funciones
+específicas. ¿Cómo así, profesora Alessia? Usted está enloqueciendo. ¿Cómo
+funciona esto? Bueno, les voy a decir cómo funciona. No estoy tan enloquecida,
+realmente. Resulta que vamos a pensar en un sistema para entregar un fármaco.
+Vamos a pensar que la molécula roja es el fármaco y la molécula azul es el
+transportador de bioreconocimiento, porque yo no podría meter el fármaco
+directamente en el cuerpo, porque puede que no llegue al objetivo. Entonces,
+tendría que meter un sistema de direccionamiento, por ejemplo, que lo lleve
+hasta el objetivo sin deteriorarse y en el objetivo pues pueda desaparecer para
+que el fármaco funcione. Ah, interesante, ¿no? [risas] Meter un caballo de
+Troya [risas]. Eso es lo que por ejemplo nosotros hacemos con los tratamientos
+oncológicos actualmente. Ustedes saben que la radioterapia o la quimioterapia
+es, pues, matar moscas a cañonazos, es un proceso bien, bien complejo que daña
+tejidos alrededor. Pero nosotros en el laboratorio, específicamente con unas
+sustancias que se llaman MOF, estamos tratando de introducir estos sistemas.
+Pero tranquilos, ya vamos para allá, es que yo, yo hago muchos spoilers. El
+autoensamblaje se da precisamente por las fuerzas intermoleculares y pues
+básicamente son dos características: formación espacial y, eh, carga. Carga
+porque depende de las fuerzas electrostáticas. Entonces, nosotros llamamos, eh,
+a esto fuerzas no covalentes. Ustedes conocen de pronto la teoría de la llave y
+la cerradura. Este es un principio, pues propuesto por Emil Fischer, donde, eh,
+la geometría del hospedador es importante respecto a la geometría del huésped.
+Entonces, eh, así funcionan las enzimas de nuestro cuerpo. Si no llega, eh,
+el-- tenemos una forma de receptor y si la enzima tiene una forma distinta, por
+ejemplo, tiene esta forma, acá trata de entrar, no entra. Pero si tiene esta
+forma, sí puede entrar y al entrar entonces va a liberar una función
+específica. Eeeh, pues está principalmente esa... es importante, digamos, hacer
+la síntesis de, de las formas y las caracterizaciones también para que pueda
+funcionar con los receptores del cuerpo. Las fuerzas no covalentes, pues la más
+importante siempre va a ser, eh, bueno, la más conocida es lo que hace que el
+ADN se mantenga junto. Ustedes conocen las bases nitrogenadas del ADN:
+citosina, guanina, timina y adenina. Y ellos tienen una configuración, eh, pues
+favorable, la guanina con la citosina, la adenina con la timina. Entonces, de
+otra forma no codifica. ¿Esto qué significa? Que podemos, por ejemplo, dar
+información a un sistema a partir de esta codificación específica. Y lo último
+es la preorganización. Ustedes ven acá dos sistemas. Este sistema que tengo,
+voy a tratar, no creo que no se pueda ampliar. Bueno, ustedes ven que acá está,
+eh, circular y acá está, pues deformadoY entonces tengo el hospedador que se va
+a querer ubicar en el centro. Díganme cuál [interferencias] va a gastar menor
+energía. ¿Quién se arriesga a contarme? ¿Cuál creen que de esos dos va a gastar
+menos energía? Pero pues bueno, como e-el tiempo es limitado, yo les voy a
+contar, pero sí es importante que se piense en ese tipo de cosas. Piensen que
+este, por ejemplo, esta estructura de acá no tiene que gastar energía en
+deformarse otra vez, en reformarse. En cambio, este sí tiene que gastar mucha
+energía en reformarse otra vez para poder adquirir al hospedador. Entonces,
+esta preorganización es la que favorece, eh, pues esa adquisición. Esto pues
+también lo llaman el efecto kelato, la capacidad de preorganización para
+formar, eh, estabilidad en una nueva sustancia. Antes de pasar a los nanoMOF y
+a las nanopartículas de oro, que sobre esto fue mi tesis de, de maestría,
+quiero que veamos, eh, un poquito cómo funcionan las atracciones no covalentes.
+¿Listo? Y ya pasamos a-- les explico qué hice durante mi, mi maestría. Los
+enlaces covalentes, pues se van a formar cuando se comparten pares de
+electrones entre átomos que interactúan. Este es el ejemplo más clásico: el
+CO₂. Tenemos un carbono al centro y luego dos, eh, oxígenos a los lados con
+doble enlace. Los enlaces covalentes son fuerzas intramoleculares que conectan
+los átomos formando moléculas u otras atracciones intermoleculares. ¿Listo?
+Entonces, eh, por ejemplo, este fósforo está unido a este oxígeno por un enlace
+intramolecular, un enlace covalente. Por ejemplo, toda esta estructura pues es
+una estructura covalente. Algunos la llaman, pues estructuras orgánicas. Este
+es el ejemplo perfecto del ADN. Pueden ver cómo estas líneas que están acá
+punteadas son los conocidos como puentes de hidrógeno. Entonces pueden ver que
+el ADN [notificación de WhatsApp] junta sus bases nitrogenadas, no por fuerzas
+intramoleculares, sino por fuerzas intermoleculares, que son puentes de
+hidrógeno, que son estas líneas punteadas. Esta, pues también es la, la
+representación que se les da. Cuando vayan a leer un artículo o algo, pues
+saben que las líneas punteadas o segmentadas son fuerzas intermoleculares.
+¿Listo? Son individualmente débiles y pues son interacciones no covalentes.
+Juntas pueden mantener las moléculas de manera enlazada durante un largo
+tiempo. O sea, miren su ADN, por ejemplo. Cuatro tipos principales de
+atracciones no covalentes van a ocurrir, por ejemplo, en los sistemas
+biológicos. Las interacciones de puentes de hidrógeno, eh, las interacciones
+iónicas, las fuerzas de van der Waals y las, eh, [notificación de WhatsApp]
+interacciones hidrofóbicas. ¿Listo? Las interacciones iónicas se van a producir
+entre iones con cargas opuestas. Siempre que escuche una palabra ion, pues yo
+sé que ustedes entienden que es una molécula cargada, un átomo o una molécula
+cargada. Si tiene carga, significa que no va a depender simplemente de su
+configuración espacial, sino también de las cargas que hay alrededor.
+Funcionan, pues, a manera de estabilización por medio de, eh, interacción con
+las cargas. Las cargas iguales se repelen, las cargas diferentes se atraen. Los
+puentes de hidrógeno se forman cuando el átomo de hidrógeno que está vinculado
+a un, a un átomo electronegativo, pues va a tener esa facultad de [risas]
+sentirse atraído hacia ellos. Los puentes de hidrógeno, o sea, son una
+maravilla porque tienen muy poquita energía, pero en un sistema como el agua
+pueden haber tantos puentes de hidrógeno, pues que lo hacen muy estable y que
+por ejemplo, pues solo se evapora a cien grados, que es una temperatura más o
+menos alta. Una base de una hebra, eh, que comparte sus hidrógenos
+covalentemente unidos. Acá tenemos el ejemplo de la adenina y la timina. No hay
+un enlace químico que una al hidrógeno con el nitrógeno de la otra molécula,
+pero sí hay una fuerza intermolecular. O sea, espacialmente están bien
+arreglados y por sus cargas, el hidrógeno pues suele ser más positivo que el
+oxígeno y el oxígeno pues más positivo que el nitrógeno, por sus cargas también
+están bien alineados para, eh, favorecer la, la interacción supramolecular.
+Tenemos las interacciones de van der Waals, eh, estas ocurren en el caso de que
+dos moléculas se acerquen entre sí y esas fuerzas hacen que se fuerce [risas]
+una polaridad. Se generan los conocidos como dipolos temporales. Entonces, si
+yo tengo-- esto pasa mucho con, con las apolares, no completamente apolares,
+sino medianamente apolares. Eh, si ustedes le pasan una carga por encima o por
+algún lado, eh, están obligando a que se empiece a reconfigurar un dipolo
+temporal y las interacciones hidrofóbicas, que pues las superconocen. [risas] Y
+esto es, eh, debido a que pues no tienen interacción con el agua. Esto sí pasa
+con las muy apolares, con las que son muy, muy apolares. Eh, ustedes saben cómo
+funciona, pues el, el jabón, las micelas. ¿Listo? Y como no interactúan con el
+agua, entonces, de hecho, les voy a hacer un spoiler. Nosotros lo que hacemos
+es: en estas estructuras apolares podemos, digamos, meter estructuras polares.
+De esa manera, esa estructura apolar se la va a llevar hasta un punto del
+cuerpo donde se va a degradar de alguna manera. Y la estructura polar, lo que
+es la que carga el fármaco, es la que va a disolverse. ¿Por qué no metemos
+directamente el fármaco? Pues porque se, se ioniza, se disocia antes de llegar
+al lugar objetivo. Entonces, si yo por ejemplo, voy a-- alguien tiene un cáncer
+de colon y le doy el fármaco y se le disocia en la garganta, pues no tiene
+mucho sentido, ¿no? [risas]Listo. Esta era la otra parte. Estas son las
+interacciones no covalentes. Yo les comenté que, pues, eh, la mayoría de lo que
+vamos a hablar acá son interacciones no covalentes. Ahora sí, las nanoMOF. Los
+MOFs son metal-organic frameworks o también conocidos como marcos
+metalorgánicos. Estos van a tener unos nodos que actúan como vértices o
+conectores y unos ligandos orgánicos. Luego, a esos lo que podemos hacer es,
+eh, introducir, por ejemplo, sustancias como nanopartículas de oro. Las
+nanopartículas de oro son muy interesantes porque absorben luz en una longitud
+de onda y la emiten en otra. Entonces, por ejemplo, eh, las nanopartículas de
+oro, que yo acá les tengo un pequeño, eh, video. No, esto es con rodamina. Acá.
+Eh, bueno, es que yo uso mi, mi Instagram de, ¿de qué? [risas] Acá está. Mi
+Instagram de repositorio de laboratorio. Acá tenemos varias, eh, nanopartículas
+de oro. Ustedes pueden ver que son rojas. El profesor Arthur me comentó que les
+ha contado un poquito sobre la copa de El Turco. Entonces, eh, sabrán que el,
+el oro nanoparticulado no es dorado, es rojo. Entre más pequeño, más rojo es.
+Entre más grande, va a pasar a ser como de un color morado, luego azul y luego
+transparentoso. Entonces, acá, por ejemplo, pueden ver varias muestras de
+nanopartículas de oro, pues que sintetizamos en el laboratorio, de diferentes
+tamaños. Luego, eh, s-- estudiamos, por ejemplo, el efecto Tyndall. Las
+nanopartículas, pues más pequeñas no permiten el paso de la luz, pero las
+nanopartículas más grandes sí. Acá, eh, esto es rodamina. Acá hay un pequeño...
+bueno, eh, siempre que esto es para quienes les interese el mundo de la
+nanotecnología, pues siempre la insistencia es: eh, usen materiales
+previamente, [risas] eh, tarados, previamente muy limpios. Por ejemplo, para
+sintetizar nanopartículas de oro es muy importante, el, que el material haya
+sido primero, eh, esterilizado totalmente con, con ácido. Acá tenemos, pues un
+poquito de la síntesis de esas nanopartículas con el tetracloruro áurico.
+Ustedes van a poder ver que acá tengo un matraz de color dorado, porque el
+tetracloruro áurico es de color dorado. Pero cuando se empiecen a generar las
+conglomeraciones de nanopartículas, va a pasar a ser de diferentes colores.
+Entre más pequeña la partícula, pues digamos que las favorables están entre
+ocho nanómetros y veinte nanómetros. Las ideales están entre doce nanómetros y
+dieciocho nanómetros. Pero, pues eso depende del tiempo de, de procesamiento.
+Entonces, acá lo tienen de color dorado y ahí ven que cambió de color, ¿cierto?
+Esto se da porque al generarse los, eh, aglomerados, entonces se generan las
+nanopartículas de oro y empiezan a, eh, tener esa característica. Ustedes
+saben, pues, que esto se da por una interacción cuántica. Es una propiedad,
+bueno, que las nanopartículas tienen estas capacidades de tener propiedades
+mecánicas y cuánticas, eh, al tiempo. Entonces, está, está bien interesante,
+dependiendo del material. Eh, las nanopartículas de oro, pues específicamente
+pueden tener muchas formas, pueden ser esferas, pueden ser bastoncillos, pueden
+ser, eh, cubiertas, pueden ser jaulas o pueden ser estrellas. Y para todos hay
+un protocolo. [risas] Eh, y casi todas, pues depende del tiempo de, de
+procesamiento. Si se deja muy poquito tiempo, quedan muy pequeñas, no funcionan
+o no se forman los aglomerados. Si se dejan mucho tiempo, quedan muy grandes y
+ya muy grandes, pues no tienen esta... estas ventajas. ¿Listo? Acá les, les
+muestro un poquito de MOF. Los nanoMOFs son esta especie de jaulas que lo que
+permiten es cargar cosas en su interior. Al cargar cosas en su interior
+[interferencias] por este interior, que es el fármaco, luego la jaula contiene
+y luego alrededor, por ejemplo, podemos colocarle las nanopartículas de oro y
+luego de la nanopartícula, un señalizador orgánico. Entonces, básicamente
+tendríamos una nave donde el señalizador orgánico dirige hacia qué órgano o
+hacia qué lugar va a ir la, la nanopartícula. Es, vamos, es una especie de
+biomimetismo. La nanopartícula de oro básicamente son explosivos. [risas] Eh,
+los MOFs son las jaulas que contienen el fármaco. Entonces, una vez llega al
+lugar específico, el MOF, la, la capa exterior, que vendría a ser el material
+orgánico, se va a disolver. Las nanopartículas de oro van a dispersarse un
+poquito y se va a liberar el fármaco porque se va a disociar el MOF dentro del
+sistema. Como [risas] las nanopartículas de oro convierten la luz visible en,
+eh, infrarrojo, y ustedes saben que el infrarrojo se relaciona al calor.
+Entonces, y como ya están unidas, pues al, al receptor específico a donde las
+llevó la sustancia orgánica, básicamente estaríamos, pues generando una
+explosión muy pequeña, pero significativa para eliminar esas células
+cancerígenas específicas. ¿Cuál es la técnica más sencilla? Pues resulta que
+las células cancerígenas tienen un pH muy inferior a las células del resto del
+cuerpo, específicamente un pH de cinco punto cinco, y el resto de las células
+del cuerpo de siete punto cuatro, aproximadamente. Entonces, el señalizador lo
+que hace, pues es buscar ese pH. Se libera el fármaco y el fármaco pues hace lo
+suyoY en adición, pues para que el tejido quede para renovación, está allá en
+las nanopartículas de oro. Eeeh, increíble, ¿no? [risas] Es una de esas cosas
+que a mí me vuela la cabeza siempre que, que lo vuelvo a leer. Eh, la
+cristalización, pues es un proceso muy sencillo porque básicamente es coger las
+moléculas, introducir los huéspedes y ya. Un proceso de, de cristalización
+donde la energía principal se va a alojar en los espacios. Eh, va a haber unos
+tipos de energías reticulares que van a ser los que se van a aprovechar para,
+para que el sistema funcione. Aplicaciones clave, pues captura de gases.
+Obviamente, si estas son jaulas y permiten que entren cosas, pues captura de
+gases es obvio. Catálisis y bioaplicaciones: encapsulación de nucleótidos, como
+las jaulas de Fujita para estabilizar pares de bases en agua. Eeeh, estas son
+las primeras estructuras. Eh, los MOFs son también conocidos como jaulas
+moleculares ...varios, pues al final. Eh, luego hay, por ejemplo, otras
+nanopartículas. Nanopartículas de plata tienen también un, una funcionalidad
+muy aséptica. Eh, funciona para la asepsia, entonces son antimicrobianos,
+anti-- eh, eh, bacteriológicos, antibacteriológicos. Tienen sus propiedades
+específicas. Yyy luego, pues tenemos otro tipo de nanopartículas, pero
+realmente las más funcionales y las que yo he trabajado, pues son de plata y
+de, de oro para funciones biomédicas . Eh, esta es la primera nanopartícula
+para los que están tomando, esta es la primera pregunta que les hice ahorita.
+La nanoMOFs y las nanopartículas de plata y de oro. Tenemos luego los, eh,
+nanodots o los puntos cuánticos. Estos puntos cuánticos son semiconductores con
+tamaños entre uno y diez nanómetros. Y, eh, la propiedad del material ya no es
+un sólido macroscópico, sino que se denomina por la mecánica cuántica, por un,
+eh, una situación de confinamiento cuántico. Esto, pues lo usamos nosotros en
+las celdas solares por la misma razón que usamos, por ejemplo, las
+nanopartículas de oro dentro de los MOFs, eh, dentro de los MOFs, eh, en, en la
+capa de los MOFs, porque, eh, por la interacción cuántica pueden, eh, cambiar
+el nivel de energía. Entonces, por ejemplo, luz ultravioleta que absorbe-- que
+no absorben las celdas solares la pueden reconvertir en luz dentro del espectro
+visible. Esa luz puede ser absorbida por las celdas solares y de esa manera,
+pues se puede dar esta, esta interacción. Van a ver acá, por ejemplo, nosotros
+en el laboratorio compramos una lámpara ultravioleta precisamente para ver la
+interacción de esto, específicamente con, eh, nanopartículas de rhodamina .
+Entonces, acá pueden ver cómo la rhodamina, al ser alumbrada con luz
+ultravioleta, emite, eh, luz en el espectro visible . A mayor concentración de
+rhodamina, pues mayor cantidad de luz. Esto pues se usa para, para limpiezas
+de, de aguas, por ejemplo, para descontaminación . Eh, ay, no estoy
+compartiendo pantalla, ¿cierto? [risas] Lo voy a volver a poner porque no está
+compartiendo pantalla. Acá. La luz ultravioleta, eh, golpea la, la rhodamina y
+dependiendo de la concentración de rhodamina en el sistema, pues emite más o
+menos luz dentro del visible . ¿Listo? Eeeh, mmm, volvemos acá a los puntos
+cuánticos. Eh, este experimento sí es más bien sencillo. Este se puede, por
+ejemplo, si, si lo van a hacer por primera vez o... Ay, no me acuerdo cómo es
+el nombre del azul, específicamente. Es una sustancia orgánica que se llama
+azul de... No me acuerdo cómo se llama. Y la rhodamina . Eh, dependiendo del
+punto cuántico se define el color que va a emitir. Entonces, se pueden hacer
+diferentes tipos de puntos cuánticos. Acá, por ejemplo, pueden ver diferentes
+colores. Ustedes ven estas, estos frascos sin la luz ultravioleta y se ven como
+de color transparente. Pero una vez interactúan con la luz ultravioleta, pues
+van a emitir en un color u otro. Estos son específicamente de plomo y cesio.
+Dependiendo del tamaño de la nanopartícula, emiten de un color u otro . Eh, yo
+creo que en la portada de mi LinkedIn van a poder ver esto un poquito mejor,
+porque nosotros hicimos también este experimento . Y por ejemplo, podemos ver
+que, pues a diferente concentración , específicamente, encontramos, eh, colores
+distintos, pero es la misma sustancia . ¿Listo? Entonces, comienza en
+transparente, pasa como por, eh, amarillito, naranja, rojo, luego pasa otras
+como por amarillito, verde y otras transparente . Eso es lo que se, se ve ahí
+con los puntos cuánticos. También pueden ajustar el band gap. Entonces, a mayor
+confe-confinamiento pueden emitir luz azul y los más grandes emiten en color de
+luz rojo . Entonces, acá esta imagen es clave. O sea, entre más grande sea el
+punto cuántico, más hacia el color rojo van a emitir . Aplicaciones de los
+puntos cuánticos. Eh, bioimagen y pantallas. Eh, la bioimagen, por ejemplo,
+sustituir los tintes orgánicos tradicionales. Eh, por ejemplo, si está cargada
+alguna sustancia con un punto cuántico que sea una sustancia que no sea dañina,
+entonces podríamos ya no depender de, de la radiactividad para hacer bioimagen,
+sino simplemente de la propiedad cuántica, que es el, el desplazamiento, el
+confinamiento cuánticoLas pantallas QLED, que generan colores extremadamente
+puros y saturados para televisores y, pues mi área del conocimiento en el
+doctorado, bueno, y también en la primera maestría, que es la energía solar,
+porque significa poder aprovechar todos, todo ese rango del espectro que no
+absorbemos dentro de las celdas solares. Podríamos empezar a absorberlo con
+este tipo de, de puntos cuánticos. Entonces, vamos dos. Vamos los MOF, que son
+estas jaulas moleculares, que pues yo les con-comenté que yo las usé para
+aplicaciones biomédicas, pero pues que también los usan para descontaminación
+de gases, por ejemplo. Los nanodots, que les conté también cómo funcionan
+aplicaciones biomédicas y también en sistemas solares. Luego siguen las
+perovskitas, que esto, eh, es un proyecto que, que, que tenemos ahí, ahí
+pendiente. Alguna vez se habló en el semillero de, de nanomateriales. Las
+perovskitas son, eh, materiales con estructura ABX3, donde X pues puede ser,
+bueno, termina siendo una estructura que lo que permita es conectar, eh, A y B.
+Pues podemos ver acá cómo funciona, por ejemplo, esta, que es del trióxido de
+titanio y calcio. Y entonces, luego a esa perovskita se le pueden introducir en
+sus espacios, eh, diferentes funcionalidades. Yo actualmente, pues trabajo con
+fullerenos, entonces les contaré cómo va a funcionar cuando lleguemos allá.
+Entonces, en nanoquímica, eh, las perovskitas, por ejemplo, al lu-- de haluro
+de plomo son protagonistas, pero, eh, actualmente, ¿por qué no estamos
+trabajando con el plomo? Porque el plomo es tóxico. Entonces, estamos
+trabajando con uno muy cercano en la tabla periódica, que es el estaño, pero el
+estaño se oxida fácilmente. De hecho, mi trabajo de investigación del doctorado
+se trata de lograr que los fullerenos estabilicen al estaño. Eh, son-- tienen
+alta movilidad de carga, absorción eficiente y síntesis fácil. Entonces, las
+perovskitas pues son ganadoras en este mundo de la, de la nanociencia porque
+también son, eh, materiales que tienen posibilidad a retículos, espacios donde
+se pueden introducir otras sustancias y también caracterización superficial.
+Por lo cual, eh, pues tenemos una gran ventaja. También direccionamiento,
+porque si los electrones solo, eh, se van a mover, se van a desplazar por la
+estructura, entonces esos electrones son fácilmente capturables. ¿Listo? Eh,
+luego acá hay pues varias opciones de [risas] para, para usar como X o como
+otras sustancias, que son sustancias orgánicas. Tengan en cuenta que cuando
+trabajamos en nanotecnología es como si cogiéramos cada parte y jugáramos con
+Legos, donde... pero son ya no de estas piezas que no hacen nada, sino de
+estas, eh, smart bricks, estos bloques inteligentes donde cada bloque tiene una
+función. Si juntamos las funciones, como no cambia sus características o
+propiedades químicas porque están interactuando es por fuerzas físicas, pues
+imagínense, [risas] eh, la, la imaginación es el, es el límite, porque pues,
+eh, tenemos la posibilidad de agregar funciones y funciones y funciones en un
+sistema y si están bien organizadas podemos hacer todo, pues lo que queramos.
+En el caso del estaño, si yo tengo perovskitas basadas en estaño y junto los,
+eh, fullerenos, los fullerenos tienen una alta concentración electrónica en su
+parte superficial, porque ustedes saben que los fullerenos pues tienen forma de
+balón, ya los vamos a ver. Entonces, puedo hacer que circulen mucho mejor los
+electrones dentro de los, eh, retículos de las perovskitas. ¿Listo? Las
+perovskitas pues son estos estructuras reticulares. Ahora sí, eh, pues les voy
+a hablar un poquito de, de fullerenos, de nanotubos y de grafeno. Eh, yo sé que
+el profesor [risas] Arthur, que hace su doctorado en grafeno, pues sabrá mucho
+más que yo de grafeno. Eh, pero pues les contaré acerca de fullerenos y
+nanotubos de carbono que... [risas] Nanotubos de carbono tuve la experiencia de
+trabajar con el laboratorio de ciencias ambientales de la Universidad de
+Almería, por donde también hacen trabajo con energía solar para hacer la
+funcionalización. ¿Cómo funciona una funcionalización? Es básicamente colocarle
+patitas a estas cositas, aprovechar estos carbonos y por fuerzas no covalentes
+colocarles funciones. Los fullerenos pues tienen la ventaja de que pueden
+funcionalizarse por fuera y pueden generar muchas estructuras. Como tienen
+todos estos carbonos, cada carbono tiene unos electrones. Los electrones se
+repelen, entonces los electrones no van a querer estar dentro de la estructura,
+los electrones están superficialmente. Si yo cargo las perovskitas con estos
+fullerenos, digamos que acá yo cargo ese fullereno, entonces, eh, vamos a tener
+un desplazamiento electrónico y si la perovskita de por sí es una perovskita
+con un carácter fotovoltaico, o sea que absorbe luz y genera corriente
+electrónica, pues los fullerenos son candidatos indispensables para poder
+pensar que pueden estabilizar la estructura. Con eso, apenas el estaño, pues
+vaya a perder sus electrones, de una vez ya los está reemplazando. Tenemos un
+suministro del, de los electrones en el estaño. Las láminas de grafeno o
+nanotubos de carbono, estos son de pared simple, también hay de pared múltiple,
+pues tienen mucha resistencia y se usan, por ejemplo, en los sistemas solares
+también para, para ello, para fortalecerlos, para hacerlos menos, menos dóciles
+a, a quebrarse. Pero también genera el mismo efecto que los fullerenos, pero de
+manera dirigida. Entonces, se pueden funcionalizar, se pueden colocar varios
+grupos, eh, orgánicos por interacciones no covalentes o por fuerzas
+intermoleculares alrededor, que lo que hagan es que todos los electrones que
+están alrededor del nanotuboPuedan ser aprovechados en un sistema fotovoltaico,
+pues imagínense. Y finalmente, el grafeno [ríe], que es el material más delgado
+y fuerte conocido, pues es el dios de los conductores eléctricos y térmicos
+actualmente. Eh, ¿cuál es el problema del grafeno? No podemos apagarlo [ríe].
+El grafeno funcional no tiene un botón de apagado, pero podríamos colocar
+estructuras funcionalizadas que hagan que prendan y apaguen los sistemas. Por
+ejemplo, un grafeno. [sorprendido] Profe, ¿cómo así? ¿Usted está diciendo que
+podemos hacer que cambie la naturaleza del grafeno? No, vamos a hacer que la
+naturaleza del grafeno siga funcionando tal cual, pero condicionado a la
+función de otras estructuras que vamos a adaptar. Eso, pues lo vamos a ver acá
+más adelante. Bueno, acá por ejemplo, tenemos, eh, cómo partir el grafeno, se
+podemos crear las, los nanotubos de carbono, sea de pared simple o de pared
+múltiple, y luego de ahí podemos generar los fullerenos, eh, bien sea los
+Csesenta o los Csetenta, dependiendo del tipo de, de grafeno que, que
+utilicemos. También depende del tipo de nanotubo, pero pues actualmente son
+materiales comerciales. O sea, no es como que ya tengamos que sintetizar en el
+laboratorio los fullerenos, a menos que queramos hacer un fullerenos muy
+específico. Ya yo, por ejemplo, voy al, al laboratorio, tomo el fullerenos y
+empiezo es a, a revisar las fichas, que no-- o sea, esto se dice rápido, pero
+esto es mucha lectura de artículos, ver otras personas que han hecho y entonces
+plantearse si esta estructura se puede funcionalizar por un método similar con
+varias, eh, varias alternativas, eh, lo puedo funcionalizar con esta
+estru-estructura con una función distinta, pero pues que se puede hacer
+incorporada. Luego se analiza todo el análisis químico, análisis físico y sale
+pa, pa paper. Esto se dice rápido, pero no, esto es un trabajo que, o sea, lo
+que les acabo de narrar en menos de treinta segundos, eso toma seis, siete
+meses. O sea, es, es, es un comple-- es un proceso bien complejo. Entonces, una
+de las cosas que pues sí les invito a que desarrollen, si les gusta todo este
+campo de los nanomateriales, de las nanociencias, eh, de todo este tema nuevo
+de la biomedicina con, con nanociencias, o bien sea el tema de la, de ingeni-de
+la ingeniería también enfocada a la nanotecnología, es mucha paciencia, porque
+uno puede plantear muchas cosas e incluso muchos experimentos tampoco salen en
+el primer momento. Eh, entonces, es de mucha paciencia, de, de leer mucho.
+Ojalá les guste mucho leer, sí [ríe]. De leer muchos papers, de leer muchos
+artículos, de enterarse todo el tiempo que están haciendo otros laboratorios,
+pues para ustedes poder, eh, replicar y a partir de ahí innovar. Tenemos un
+espectro de posibilidades: electrónica flexible. Por ejemplo, ustedes ya saben
+que existen las celdas solares flexibles. También existen lo, las pantallas y
+circuitos flexibles, los materiales compuestos como raquetas, bicicletas,
+fuselajes de aviones reforzados para máxima ligereza y fuerza. Eh, las raquetas
+de tenis más pro se deben haber capas de, de este tipo de sistemas. En la
+medicina, los fullerenos como jaulas para transportar fármacos o agentes de
+contraste. Aunque si me lo preguntan, veo más futuro en los MOF que en los
+fullerenos para aplicaciones biomédicas. Todas las estructuras de carbono las
+veo mucho más útiles para aplicaciones dentro de los ámbitos de ingeniería y
+aplicación de sistemas solares o recaptación de sistemas ambientales. Y
+finalmente, energía, supercondensadores y baterías de carga ultrarrápida. Yo de
+esto no les puedo hablar tanto, pero sé que si el profesor Arthur algún día
+invita al profesor César Díaz, él, él hizo su doctorado en el tema de, ¿de qué?
+De superconductores. Entonces les puede contar mucho más al respecto. Pero pues
+sí, o sea, realmente estos sistemas si se enfrían funcionan como
+superconductores, porque tienen una alta tendencia al desplazamiento
+electrónico. Eeeh, hasta acá. ¿Quiero parar un momento, profe Arthur? De pronto
+hay alguna duda, pregunta o comentario que haya en el grupo, eh, y me interesa
+pues responderles antes de pasar a la última parte de la presentación.
+Entonces... Mira, Juan Esteban tiene tres [ríe]. Entonces, sí, profe Arthur, si
+le pudiéramos dar por favor la palabra a Juan Esteban para que... Sí, claro.
+Hágale, Juan. Listo, dice, eh, la primera: ¿con qué longitud de onda irradian
+las nanopartículas de oro para que emitan calor y actúen como bombas? Eh, vale
+con el espectro visible, o sea, con luz normal o específicamente si se
+prepararon de un tamaño específico con la luz ultravioleta que, eh, pues
+corresponde a esa longitud de onda. Ten en cuenta que cada vez que se hace una
+síntesis se hace igual una prueba preliminar para revisar todo ese tipo de
+propiedades específicas de esa síntesis, porque es que esto no está como tal,
+como un producto comercial. Entonces, cada vez que se van a utilizar se hace
+una síntesis para la realización de estas. Igual, en el momento que llegara a
+haber pruebas comerciales, que, o sea, yo digo en este momento no, y pónganle
+que en tres días los chinos ya habrán sacado el producto comercial de, de esto.
+Pero el tema es que si ya hay comercial, eh, estos suelen aglomerarse solo con
+la humedad. Entonces primero se dañan muy rápido, entonces necesita un sistema
+muy estéril de almacenamiento. Segundo, eh, tendría que sirva en el frasco
+[ríe]. ¿Listo? Sí, o sea, tiene que fijarse toda la información comercial, pero
+pues nosotros cada vez que hacemos un paquete de nanopartículas hacemos, eh,
+espectroscopía UV, espectroscopía visible y espectroscopía infrarroja para
+revisar, eh, cuáles son los puntos máximos de emisión¿Cómo saben cuándo la
+nanopartícula ya llegó al órgano objetivo? Eh, es que lo que hacemos es
+presuponer. ¿Cómo presuponemos? Ya conocemos la funcionalización de la
+nanopartícula. Hacemos un experimento de laboratorio con células de, eh, el
+órgano en específico. Vemos si los receptores de esas células capturan o no
+capturan el receptor, el, eh, el targeter, el objetivador, el director, el que
+lleva la nanopartícula hacia el lugar. Todo esto primero se hace en pruebas.
+To-- esto no se puede probar en humanos, obviamente [risas]. Eh, más allá de
+que como tratamientos experimentales, después de que ya han pasado periodos de,
+de pruebas y ya, ya es totalmente confiable de que, de que funcionan.
+Actualmente, pues nosotros funcionam-- hacemos organochips. Ahorita les voy a
+mostrar un poquito cómo funciona el organochip para poder detectar si sí se
+capturan o no se capturan los... las nanopartículas. Luego, se aplica la luz y
+si la zona, eh, dañada del organochip es la zona específica que habíamos hac--
+hecho en los cálculos, porque esto se calcula hasta el diámetro de, [risas] de
+explosión, el diámetro de, del daño, eh, si funciona, entonces queda ahí, si
+no, pues no. Eh, de esa manera, pues se hacen muchas, muchas, muchas
+repeticiones y ya cuando se tiene la seguridad, pues se, se publica. ¿Utilizan
+algún tipo de ubicador como un fluoróforo? Eh, fluoróforo. Sí. Sí, sí, sí. Eh,
+de hecho, para la funcionalización de la... de los MOF, uf, se ha usado de
+todo. O sea, derivados de nitrógeno, se han usado derivados de... ¿de qué? De
+azufre, de oxígeno, diferentes tipos de carboxilatos, eh, de nitrógeno, ácidas,
+aminas, eh, amidas. Créanme que de verdad que hay un mundo grandísimo. O sea,
+de esto no va a faltar trabajo en mucho tiempo [risas], porque pues las
+moléculas son, son muchísimas y con cambiar solo una parte de una molécula, ya
+su función puede verse, pues modificada. Entonces, eh, sí, usamos lo-los
+fluoróforos pre-precisamente para... ¿para qué? Para ubicar y también para
+señalar. ¿Listo? ¿Han hecho un análisis del tamaño de las nanopartículas de oro
+y la temperatura que llegan a alcanzar según su tamaño? Eh, sí, pero, o sea,
+ten en cuenta que pueden alcanzar temperaturas muy altas, pero como son
+espacios tan pequeños, no hay radiación, eh, convertida suficiente como para
+dañar otros tejidos. Específicamente, no tengo el dato acá. Sé que lo tuve que
+haber puesto en mi tesis en algún momento, pero, eh, pues no, no tengo la
+temperatura como tal, pero sí son temperaturas importantes. E-es que más que la
+temperatura, digamos, como de cada nanopartícula que pueda generar
+nanopartículas, es como la temperatura que pueden generar todas juntas. ¿Listo,
+eh, Juan Esteban? Eh, no sé si de pronto mis respuestas han sido asertivas
+respecto a las preguntas que me has hecho. No, con gusto, Juan Esteban, contigo
+trabajamos en el semillero de nanociencia, ¿no? Juraría. Yo... Ah, claro. Sí.
+Ya sé quién eres [risas]. Listo, no, muy bien. Eh, gracias por tus preguntas,
+Juan Esteban. Ahorita tenemos que-- hablamos un rato de, de que vas a hacer la,
+la tesis de grado, que creo que será con, con César y con Arthur. Mmm, listo.
+Eh, dispositivos moleculares. Esto les interesa mucho, porque resulta que los
+químicos no sabemos cómo funcionan muchas cosas. Entonces, si a mí me
+preguntan, o sea, cuando yo empecé esto, yo no sabía cómo funcionaba un
+helicóptero o cómo funcionaba mecánicamente un motor. Químicamente, les puedo
+hacer toda la explicación, [risas] pero mecánicamente no sabía muy bien cómo
+funcionaba. Entonces, eh, cuando llegué al laboratorio conocí físicos e
+ingenieros. Y resulta que los físicos e ingenieros sí saben cómo funciona un
+motor mecánicamente y sí saben cómo funciona un helicóptero mecánicamente.
+Saben muchas cosas cómo funcionan mecánicamente, pero pues de pronto no saben
+cómo funciona la química. Pero si combinamos el conocimiento de química con el
+conocimiento de la física y la ingeniería, podemos hacer todos los aparatos que
+ustedes se imaginen a nivel-- de nivel macromolecular en el mundo
+micromolecular. Eh, lo que viene a ser como un up to down, un... top to down,
+creo que es. Sí, un top to down, de arriba hacia abajo . Entonces, eh, un
+dispositivo es un ensamblaje supramolecular diseñado para realizar una función
+específica: lógica, detección, movimiento y esto bajo est-estímulos externos,
+luz, pH o voltaje. Por ejemplo, acá tenemos un rotaxano. Este rotaxano pues
+puede funcionar como switch, donde al agregar ácido tenemos en una posición el
+rotaxano y al agrega-- y al quitarle el ácido, colocar una base, eh, pues se
+desplaza. Al tener esto, podemos generar, pues dos movimientos. Ese movimiento
+nos puede hacer que genere, por ejemplo, vamos a pensar que mi mano es una
+molécula. Así se alinea con ácido, pero luego se desalinea sin el ácido.
+Entonces, tengo este movimiento y este movimiento. Pero si se hace de manera
+secuencial, la manera más favorable es que gire. Bueno, es que yo no tuviera
+articulaciones, ¿no? Que gire uno alrededor del otro. Y eso bajo un sistema de
+encendido y apagado constante. Entonces, se puede crear pues básicamente un, un
+rotor a nivel molecular. También se pueden crear, por ejemplo, ascensores.
+Entonces, si yo tengo una molécula, pero la tengo que desplazar nanómetros a
+otro lugarTambién se puede hacer bajo cierto tipo de, de estructuras donde se
+introduce, se activa, bien sea con luz, pH o voltaje, y las puedo desplazar
+nanómetros. ¿Listo? Eeeh, acá pueden ver, por ejemplo, esta estructura donde se
+toman varias piezas y las piezas, pues nos pueden generar diferentes
+configuraciones y diferentes acciones dependiendo de la funcionalización. Pero
+el que más me sorprendió a mí, y de verdad digo como: "Uf, por Dios", el día
+que, que yo vi esto por primera vez me voló la cabeza, fueron los carritos
+moleculares [risas]. Los carritos moleculares son esta estructura. Esto acá
+puede girar, entonces, estas van a ser las llantas. Igual, eh, esto funciona a
+partir de la interacción, eh, de cargas y la interacción, pues básicamente un
+sistema mecánico, [risas] pero a, a, a muy pocas dimensiones. Entonces, eh, se
+puede cargar dentro de un sistema dos, dos llantas, dos pares de llantas y, eh,
+si se genera, pues, el campo magnético va a empezar este a oscilar y de esta
+manera, pues vamos a, a tener movimiento de ese carrito molecular. ¿Listo? Eh,
+interruptores o switches, motores y rotores y nanocarros, es como lo que quería
+mostrarles también que se puede hacer. Que... ¿Por qué se hará? Parece
+interesante. O sea, realmente mi, mi enfoque del conocimiento está en
+aplicaciones, principalmente actualmente en energías, pero pues también en
+sistemas biomédicos. Ya quienes hacen esto, pues, eh, creo que son muy
+inteligentes y van a tener aplicación en algún momento, pero... Pues
+aplicaciones dentro de, de los ámbitos biomédicos y energías y, y
+descontaminación. Pero por ahora, pues yo personalmente lo veo como
+curiosidades. Además, porque digamos muchos de estos sistemas, eh, se basan de
+lo que aprendimos de, eh, la mitocondria. La mitocondria es básicamente un
+motor [risas] que recibe ATP como si fuera comida y, y funciona. Entonces, eso
+era lo que quería. Conclusiones. Eh, pasamos de observar la materia a diseñarla
+átomo a átomo. E-eso es cierto, o sea, ya, ya digamos, los bloques de
+construcción de la materia se volvieron básicamente nuestros instrumentos de
+trabajo. La convergencia, los MOF, los nanodots, las perovskitas, el carbono
+comparten un principio común que es la estructura a nanoescala que define la
+función macroscópica. Eh, la estructura a nanoescala, pues define la función
+macroscópica, pero también tengamos en cuenta que esas propiedades cuánticas
+son las que nos da el factor diferenciador de cosas que no podemos hacer, por
+ejemplo, con sustancias a nivel macro, sí podemos reproducir a nivel micro, ay,
+perdón, a nivel nano, por esa intersección que existe entre la mecánica y las
+propiedades cuánticas que se encuentran dentro de, de la escala nano. El
+impacto de estas estructuras son la base de las soluciones energéticas, médicas
+y tecnológicas de las próximas décadas. El semillero fue solo el comienzo del
+viaje hacia el fondo, donde, como dijo Feynman, hay mucho espacio. Eh, muchas
+gracias. Espero [risas] que les haya gustado esta, esta presentación. La verdad
+que, que se hayan llevado mucho conocimiento, muchas ganas de leer, [risas]
+muchas ganas de, de conocer este mundo tan amplio, eh, que nunca se les olvide
+la diferencia entre un enlace químico y una fuerza intermolecular. [risas] Si
+en un laboratorio e-el químico no se quede con cara de: "Ay, pero es que no, no
+saben [risas] por eso intermolecular, intermolecular". [risas] Y entonces los
+juzguen con cara de químico. Miren con la cara que los mira el químico. ¿Sí?
+Listo. Eh, no, manos arriba, manos arriba para quienes quieran participar. Yo
+acá feliz de, de poder atenderles de... con, con la mejor respuesta posible. Y
+ya, profesor Artur, ya si quieren pues puedo colocar de fondo este video que es
+el de la síntesis de las nanopartículas de oro mientras respondemos preguntas y
+si por ejemplo tengo que proyectar algún paper para responder alguna pregunta,
+pues, eh, pues se hace, no pasa nada. ¿Listo? Eso sería. Listo, profe Edat.
+Entonces... le doy acá la palabra. Creo que sí hay unas preguntas. A ver quién
+tendrá algún tipo de, de pregunta. Sí, eh, Andrés había levantado la mano, no
+sé qué otros más. Bueno, probemos. Ah, también pregunto preguntas acerca de
+cómo conseguir lo de las becas y eso, [risas] es que ese les-- siempre lo digo
+al final, pero esta vez sí me acordé pronto. [risas] Ah, ah, bueno, sí, también
+este espacio es bueno porque, eh, el profe está allá en, en España
+hace-haciendo su doctorado, entonces seguramente algunos de ustedes tengan
+interés en, en hacer sus posgrados, eh, allá. Eh, bueno, ¿no, no, no hay
+preguntas, compañeros? Si quieren pasamos de una vez al tema de lo de el acceso
+a, a maestría o doctorado. [carraspeo] ¿Sí? No sé. Bueno, vale entonces. Pero
+sí, si quieren saberlo ¿o no, o no, chicos? O no, o no. [risas] Si alguno
+interesado. Ustedes. Sí, profe, pues si puede decir ahí cómo, cómo lo hizo,
+pues yo creo que para todos sería útil. Listo, listo. Entonces coménteles cómo
+fue esa vuelta. Bueno, eh, yo terminé mi carrera en 2022 y comencé mi maestría
+en 2023, porque en Europa pues empiezan en septiembre, eh, las clases.
+[carraspeo] Entonces, pues sí tuve tiempo como de organizarme para llegar en
+septiembreEh, les voy a contar mi, mi caso personal y cómo lo hice yo. No
+significa que sea la única forma. O sea, yo, yo les voy a decir por qué elegí
+el lugar que elegí, por qué llegué al lugar que llegué, por qué, pues hubo la
+posibilidad. Entonces, eh, lo primero que les recomiendo es: averigüen, pues,
+si quieren hacer la maestría o quieren entrar de una vez al doctorado. Las
+licenciaturas, eh, por ejemplo, en Europa, son tomadas como, eh, carreras de...
+como carrera de pregrado y de posgrado. Entonces, por ejemplo, cuando yo, yo
+vinculé al sistema español de educación, eh, a mí me preguntaban que por qué
+quería hacer otra maestría y yo preguntaba por qué, me decían: "Porque, por
+ejemplo, la licenciatura en Química es tomada como un grado en Química y una
+maestría en Educación". ¿Por qué? Porque, pues, en España los, los qué, los
+grados duran tres años. En Europa normalmente un grado dura tres años y un
+posgrado dura un año o una maestría. [carraspeo] Entonces, eh, si quieren hacer
+el doctorado directamente o si quieren entrar a maestría, yo les recomiendo,
+pues, no saltarse el nivel de maestría. Yo de verdad creo que no podría hacer
+nada de lo que hago en el doctorado si no hubiese hecho primero la maestría,
+por varias cosas. El... bueno, primero uno dirá como: "No son tan, tan
+avanzados", pero sí hay cosas que uno tiene que aprender del, de la forma de
+trabajar de ellos. Y luego lo otro es la adaptación al sistema. Entonces, sí
+son cosas bien diferenciales que yo aprendí durante la maestría. Entonces, les
+recomendaría no saltarse el paso de maestría, pero si se lo preguntan, sí
+pueden acceder directamente al doctorado. Creo que tanto en Europa como en
+Brasil, específicamente en España y en Brasil, creo que, que se puede. Eh, yo
+entré a los-- yo hice lo siguiente. Yo coloqué en el buscador de Google
+[tecleo] "Junta de Andalucía másteres". Yo hice esto. Acá me aparece la página
+de la Junta de Andalucía. Entonces, acá dice: "Acceso a la Universidad de la
+Junta de Andalucía". Entonces, ahí le di clic y entonces me apareció esto, que
+es la página del Distrito Único Andaluz. Entonces, aparecen las fechas más
+relevantes del proceso de inscripción. Entonces, por ejemplo, para el año que
+viene, pues ya pasó la primera fase, que es exclusiva de extranjeros, pero la
+segunda fase empieza en junio. Por ahora están pendientes los horarios, pero
+normalmente empieza en junio. Entonces, para quienes, digamos, se gradúan este
+año podrían ya pensarse en septiembre entrar a la maestría, eh, quienes se
+gradúen, por ejemplo, en julio. Pero, pues yo les recomiendo que traten siempre
+desde la primera fase, porque el tema de la visa es un tema y tienen, pues, que
+sacar una visa de estudios y también tener un capital para poder irse a
+estudiar a España o conseguirse una beca. ¿Dónde consiguen la beca? Hay dos
+formas. La primera es la clásica y bien conocida Fundación Carolina. Ustedes
+son científicos, entonces tienen un poquito de ventaja de que no tantos
+científicos e ingenieros se presentan a la Fundación Carolina. Se presenta
+mucha gente de Humanidades, pero no tantos científicos. Entonces, por ejemplo,
+acá están las becas de formación de la fundación. Creo que sacan solicitantes
+de becas, juraría que sacan solicitantes de becas, que la página ha cambiado. Y
+acá, por ejemplo, están los posgrados y está el posgrado dependiendo, pues,
+de-- porque la intención de la Fundación Carolina es, pues, que ustedes se
+vayan, pero regresen a traer ese conocimiento al país. Bueno, a, a
+Latinoamérica en general. Y acá hay, pues, varios. Eh, yo les voy a mostrar el
+que yo hice, que fue el de la Fundación Repsol, que no lo encuentro ahora.
+Bueno, metemos control F y busco Repsol. Pero miren, todos esos son acá,
+Programas STEAM de Fundación Repsol. Y es este. Eh, energía renovable. No, no,
+no, no, no es este. Energía solar. Es este de la Universidad de Almería. ¿Cómo
+me gané este? Pues, pues la opción que es de maestría en energía solar, que acá
+en Colombia, pues es Ingeniería y Arquitectura de Sistemas Solares. El plazo,
+pues ahorita está cerrado, pero pues toquen, estén pendientes de la página. Hay
+muchísimos, o sea, esto es solo para programas-- pero luego ustedes van a mirar
+acá, por ejemplo, en Planeta. Uy, hay un montón. Luego si les interesa, porque
+esto se basa en los objetivos de la Agenda 2030. Y pues ustedes saben que la
+Agenda 2030, pues salud, educación, ambiente, edu-- eh, de todo, de todo, de
+todo, de todo. Entonces, seguramente-- bueno, ahí hay muchos, muchos másteres.
+Pues yo les recomiendo, si van a elegir uno, elijan uno con un pénsum que les
+guste y que ustedes digan: "Sí, voy a pasar un año, que va a ser un año de
+profundización mucho en un tema donde tengo que igual rendir parciales, donde
+igual tengo que rendir, eh, exámenes". Entonces, tiene que ser lo más ameno y
+lo más apegado a lo que ustedes quieren hacer, porque si de pronto es algo que
+no les gusta, pues la van a ver de parrio. ¿Qué criterios de selección tienen
+esas convocatorias? Bueno, la primera es presentarse. [risas] Eh, hay gente que
+pasa porque nadie más se presenta. Entonces, digamos, una beca tiene ocho cupos
+y se presentan cuatro. Pues adivina, el criterio de selección fue que los
+cuatro se presentaran. Luego, eh, ya para, por ejemplo, las, las, las más
+fuertes, pues para los que quieren irse a universidades más, más fuertes, eh,
+pues depende de su, su nota media, depende de su nota de trabajo de grado,
+depende también el tema que hicieran el trabajo de grado, depende de si ustedes
+se han comunicado antes con los directores del máster, que es importante. Eh,
+yo pues aprendí [risas] en España que muchas cosas se consiguen es
+comunicándose con las personas, porque, o sea, el tema de saber comunicarse con
+las personas es crucial. El doctorado, por ejemplo, fue porque salió la oferta
+y yo me comuniqué con el director de, de investigación y pues él vio mi hoja de
+vida y, y personalmente y todo, y, y pues salió muy bienEntonces no tengan
+miedo. También todo lo que han hecho suma. O sea, eh, yo me acuerdo que le pedí
+al profesor Artur precisamente el-- la, la experiencia del semillero de
+nanociencia, porque eso sumó a la hora de yo poder entrar al doctorado. Todo lo
+que ustedes han hecho suma. Cada asistencia a congreso, cada asistencia a
+simposio, cada, cada artículo, cada capítulo, todo lo que hayan hecho en, en la
+carrera. Y eso suma mucho más que la nota media. Mucha gente se preocupa porque
+de pronto no tiene una nota media tan alta. Mi nota media no fue tan alta, mi
+nota media fue de cuatro. Eh, pues entre mis compañeros de generación no fue de
+las mejores, de hecho fue una de las más bajas, pero aun así, pues he, he hecho
+cosas [risa]. Entonces no se preocupen. Más que eso es el interés que ustedes
+tengan, porque por ejemplo en países como España no buscan personas que tengan
+notas muy altas en un tema, sino que buscan personas muy interesadas en el
+tema. ¿Listo? Eh, eso es. Y la otra, pues me estoy quedando acá en la
+conducción, Carolina, es la AUIP. AUIP. ¿AIUP? No, es que no me acuerdo cómo se
+llama. Eh, no, no, no, no, no, no, no. Asociación Internacional de
+Estudiantes... ¿AIUP? ¿Es AIUP? No me acuerdo cómo es. ¿AUIP? ¿AIUP? No, no me
+acuerdo. Ahorita voy a buscarla y ya les paso el dato bien, porque no me
+acuerdo bien cómo es las siglas. Esa es otra opción. Si, si investigan, eh, le
+pueden preguntar a ChatGPT o a Gemini: «Eh, la profesora de, de, de posgrado me
+dijo que era una página que se llamaba AUIP, que es de estudiantes, eh, para
+posgrados, pero esa no existe. Entonces dime, por favor, cuáles son las siglas»
+[risa]. Que la profesora no se acuerda. Ese es como el otro camino. Bueno,
+entonces entré acá y entonces yo vi las fechas. Y entonces, eh, dije: «Bueno,
+vamos a estudiar algo». Y vi los catálogos de másteres. Entonces acá, por
+ejemplo, ustedes son físicos o... bueno, eso me han contado. Allá en España eso
+se llama grado en Física. [tecleo] Física. Dios mío, ¿ustedes creen que no voy
+a encontrar? En Ciencias no hay grado en Física. [tararea] Farmacología,
+Finanzas... Acá hay grado en Física, ¿no? Ah, bueno, la tilde, Dios mío. Y acá
+ustedes buscan la universidad en la cual quieren, pues revisar. Vamos a decir
+que en todas. Sí, muchos resultados, pero pues qué se le hace. Y acá ustedes,
+en esta página, en el catálogo de másteres, ustedes pueden básicamente ver, eh,
+tanto los nombres como los pénsums, como los requisitos. Ah, eso es importante.
+Cada uno de los másteres va a tener un requisito en particular. Las becas
+tienen sus requisitos, pero los másteres también tienen sus requisitos.
+Entonces, depende. ¿Ustedes son de prioridad baja, media, alta o son del resto?
+Pues yo les recomiendo que si son de Física, pues busquen uno alta. Por
+ejemplo, en Almería, Energía Solar. Esta fue la maestría que yo hice, por
+ejemplo. Eeeh, luego, por ejemplo, no sé, Profesorado en Enseñanza de Biología
+y Geología, eso es un doble máster, hasta donde me acuerdo. Nanociencia y
+Tecnología de Materiales, por ejemplo, en Cádiz. Y entonces dice: «No, a mí me
+gustó, mmm...» A ver, una que sea alta. Electroquímica, Ciencia y Tecnología.
+Bueno, no, Educación Ambiental no. Digamos que Electroquímica, Ciencia y
+Tecnología. Entonces, ustedes pueden entrar acá a la ficha y entonces la ficha
+del máster les va a decir el baremo para ustedes poder acceder: la nota media
+del expediente académico, la posesión de licenciatura o grado en Ingeniería
+Química o afines. Por ejemplo, grado en Física pues entra muy bien, porque pues
+es alto. Resultados de asignaturas afines al máster y experiencia profesional.
+Quienes sean de país no hablante en español, pues ustedes no les entra esto,
+entonces no hay problema. Y acá están los de preferencia, en orden de
+preferencia. Entonces, los de Física miren que no están tan bajitos. Eh, y ya,
+pueden ahí revisar en las diferentes universidades. ¿Por qué les recomiendo
+Andalucía en España? Es muy barato [risa]. Creo que es la zona de Europa más
+barata de todas. Y pues uno tiene que ir con cierto capital, pues porque se,
+se, se gana en euros, pero pues se gasta en euros. Entonces, Andalucía es una
+muy buena opción, por eso fue que yo la consideré para hacer mi maestría. Eh,
+les voy a dejar, eh, este, ¿este qué? Esta página en el chat de Meet, bueno,
+por si la quieren copiar y pegarla en un bloc de notas. Mmm, eso fue para la
+maestría. Y para el doctorado, pues sí fue más fácil. Para el doctorado yo
+había buscado un lugar donde estuvieran haciendo investigación de
+nanomateriales [tecleo] y encontré el Polimat. Y entonces el Polimat tiene su
+propio, su propio lugar donde publican, eh, precisamente las posiciones
+disponibles para doctorado. Entonces acá está, eh, posdoctorado, más posiciones
+en Polimat o posiciones de, de doctorado. Acá yo entro acá y pues bueno, acá
+están las financiaciones, eso y las convocatorias. ¿Listo? Para el doctorado,
+pues ya fue más el tiempo que me demoré como diciendo: «Me quiero dedicar a la
+biomedicina en mi proyecto doctoral o al tema de la ingeniería de energías». Y
+pues bueno, vi que, que había un puesto en síntesis para, para arquitectura y
+sistemas solares y dije: «Pues creo que me llama mucho más», porque en
+biomedicina créanme que uf, de verdad que me costó muchísimo, muchísimo,
+muchísimo. Y al final descubrí que si bien puedo aprender mucho y me gusta
+mucho y los profesores que tuve son unos tesos, eh, pues tampoco me apasionaba
+tanto como me apasiona el tema de las energías, ¿vale? Yo creo que se nota
+cuando, cuando les comento acerca de todoY de esa manera fue que, pues me pude
+vincular, pues primero las maestrías y luego los doctorados. Eeeh, yo hice
+energía solar y a los seis meses comencé el laboratorio de avance de química,
+porque en España por cada crédito que ustedes hagan, les des-- bueno, en
+Andalucía, porque Andalucía es una provincia muy específica autónoma de España,
+por cada crédito que ustedes hacen y pasan, el siguiente crédito es gratis.
+Entonces, por ejemplo, yo ya había completado pues una gran cantidad de
+créditos, pues dije: "No, pues aprovecharé, hago la segunda maestría porque me
+interesa aprender sobre sistemas nanoquímicos". Y ya, esa fue la historia. No
+sé si alguien tiene alguna pregunta respecto a la presentación que hice de
+nanociencia o respecto de este apartado. Que yo sé que pues ya ustedes son de
+semestres altos, creo. [carraspeo] No sé, chicos, cuéntenme, por favor. Si
+necesitan el link a las páginas, si necesitan... No, Mauricio, con gusto. Igual
+me queda todavía hacerles una pregunta. Uy, les va-- ya que no preguntas, les
+voy a hacer una pregunta que los deje pensando toda la vida, ¿no? Eeeh. [risa]
+Mmm, vale, Daf, eh... No, pues se preguntó: uno de los campos más explorados y
+quien más le metió plata a los grafenos, pues es España. Pero pues al día d-de
+hoy, bueno, ¿cómo, cómo ha cambiado, no? ¿Qué-- cuáles son las, las nuevas
+proyecciones de, del país en este campo de los nanomateriales? Bueno, pues
+España, eh, se puede decir muchas cosas de Españita, pero, pero sí son punteros
+en tecnología, pero es también porque han adaptado mucho el sistema de
+educación chino a las aulas de educación de posgrado españolas. También, pues
+España tiene acuerdos muy importantes que le permiten, por ejemplo, hacer esa
+transacción de productos muy fácilmente con China. Eh, yo creo que ustedes
+vieron hace poquito que, que Trump quería colocar, eh, quería usar al país para
+colocar, eh, sistemas armamentísticos para atacar a Irán y el presidente dijo:
+"No". [risa] Y es lo que da la ventaja, por ejemplo, de estar aliado, pues con
+el socio comercial y tecnológico más fuerte del mundo. Entonces, muchas de esas
+investigaciones actuales que se hacen del grafeno y del fullerenos vienen
+precisamente de China. Eeeh, entonces, pues el sistema se ha adaptado bajo ese
+criterio de ellos son los más avanzados, entonces también son los que primero
+comparten el conocimiento con España, incluso antes de, de compartirlo. Muchos
+de los editores, eh, bueno, para quienes quieran meterse al mundo del mundo
+científico, los papers y las publicaciones, muchos de los artículos chinos,
+cuando se pide la solicitud de revisión, pasan primero por España que por
+cualquier otra parte del mundo. Entonces, entre muchas cosas, digamos, el
+conocimiento ha sido favorable y yo veo que digamos el tema de la síntesis del
+óxido de grafeno, pues sigue siendo un tema. [risa] Todavía no generamos
+estructuras tan grandes, pero sí mucho más grandes de las que se generaban
+antes, de los que se generaban, por ejemplo, hace cinco o seis años. Entonces,
+yo veo que la predicción a futuro de los nanomateriales sí o sí es el futuro,
+porque todas las energías renovables dependen actualmente de, del avance de los
+nanomateriales y también los procesos de biomedicina. Algo importante que
+quería mostrarles es, por ejemplo, algo que hicimos acá en Colombia, que
+alcancé a hacer, eh, antes de, antes de irme otra vez para España. Y es, por
+ejemplo, nosotros acá en Colombia con, pues los materiales que teníamos a
+disposición en BibloRed, en el grupo de investigación de BibloRed, hicimos
+órgano chips con, pues gelatina, [risa] la funcionalizamos un poquito para que
+fuera un poquito más resistente e hicimos el experimento de las nanopartículas.
+Entonces, acá hicimos un órgano chip de cerebro donde quisimos simular, eh, la
+pared hematoencefálica. Y entonces van a ver que al interactuar, eh, nuestros,
+nuestras, nuestros moléculas con la pared hematoencefálica donde están los
+tumores, entonces empieza a haber reacción. Y entonces todo el resultado pueden
+ver acá que ya salió todo el material, ya eh... Y de esa manera pues estudiamos
+este líquido saliente para saber que si hubo, que si hubo reacción. Esto lo
+hicimos acá en Colombia, pues y acá por ejemplo tenemos un sistema en un
+intestino en el cual queríamos ver si daba, eh, para fluir todo el recorrido.
+Entonces, esto pues pura nanociencia. Y el tema ahorita de los microfluidos
+también para los físicos está muy de moda, porque todo este sistema pues va a
+ser la, el aprovechamiento y, y aplicación de los sistemas nano. Entonces sí,
+profe, la verdad que yo veo que por ejemplo en el tema de, del grafeno y eso no
+hemos-- estamos todavía en la punta del iceberg. Ay, esto ya son fotos de mi
+Instagram personal. [risa] Ya eso es fuera de la bitácora. Eh, sí, no, son...
+Todos los avances tecnológicos y biomédicos que vienen es gracias pues a estos
+sistemas y pues caben todas las ciencias. Es lo que quisiera darles de, de
+sentido principalmente, que esto no es solo de los químicos, esto no es solo de
+los físicos, esto no es solo de los ingenieros, estos son todos trabajando al
+tiempo y de manera coordinada para-- así como por ejemplo una nanopartícula
+funcionalizada, pues funciona a partir de todos los componentes que le
+agregamos, un sis-- un equipo, un sistema de, de investigación funciona igual.
+Estos son, por ejemplo, unos puntos cuánticos que hicimos. Unas perovskitas,
+pueden ver que ese no brilla, pero ay, este es divino, ese líquido amarillo
+brilla azul, es divino. Entonces sí, profe, o sea, el, el tema es-- y créanme,
+no va a faltar trabajo porque [risa]Es muy complejo lo que hacemos y yo, por
+ejemplo, ya a veces cuando me pongo existencial pienso como: «Me van a faltar
+tantas, pero tantas moléculas por sintetizar para funcionalizar sistemas para
+ver cómo, cómo funciona». Entonces, sí, es algo que, que lo veo a futuro y
+ojalá podamos nosotros también en, en Colombia meternos a esa ola de empezar a
+trabajar pues con los líderes en tecnología de punta del mundo. Listo, profe.
+Entonces, eh, formulemos, porfa, dos preguntas, que es el, la, el proceso de,
+de evaluación de, de los estudiantes de, de física. Mhm. Listo. Eh, ¿puede
+colocar una pequeña actividad en vez de pregunta? Okey, listo. Listo. Eeeh...
+La primera pregunta pues no la voy a cambiar, es tal cual la, la primera que
+les hice. Eh, pues van a consultar, esto no va a ser una investigación, va a
+ser una pequeña consulta acerca de cada una de las nanopartículas de las que
+hablamos acá, de las nanopartículas o nanoestructuras. Entonces, hablamos pues
+cuatro muy específicas, pero luego entre esas hablamos de otras cosas. Por
+ejemplo, cuando hablamos de MOF hablamos también de nanopartículas de oro, de
+nanopartículas de plata. Cuando hablamos de las perovskitas también hablamos un
+poquito de, de los diferentes tipos de perovskita. Eh, básicamente eso, que
+hablen un poquito, una consulta donde hablen un poquito de cada una. Y la
+actividad, que pues prefiero más bien que una pregunta, es: busquen un artículo
+científico de cualquiera de los temas, siéntense con el artículo, léanlo y como
+normalmente los artículos están en inglés o en chino, eh, traduzcan el, el
+abstract y hagan el dibujo del graphical abstract, ¿listo? Eh, les voy a
+mostrar cómo más o menos. [carraspea] Porque pues es la forma en que trabajamos
+en un laboratorio normalmente. Entonces [ruido con la boca], digamos que es el
+primer acercamiento que, que quiero que hagan, ¿no? Por ejemplo, acá tengo la,
+la qué, la cámara... Acá. Entonces, es traducir y hacer un graphical abstract,
+que es un dibujito. O sea, no es mucho. De verdad que máximo se les van dos
+páginas. Con un artículo que ustedes hagan el resumen, eh, el resumen igual lo
+tiene el abstract [risas], ustedes simplemente lo traducen, traten de
+traducirlo por ustedes mismos y un dibujito que, que ha-que haga el graphical
+abstract, o sea, que represente ese, ese resumen de alguna manera. No tiene que
+ser tan complejo. O sea, por ejemplo, acá hay uno que hice de-- un graphical
+abstract que habla acerca de los puntos de funcionalización en una red cúbica.
+O algo así sencillo, pero pues que tengan que buscar. Eh, profe, ¿les puedo
+enseñar una última cosita? Sí, claro. Y aprovechando, eh, lo que dice el profe
+Dap, como cada uno tiene un nanomaterial, pues aprovechemos eso, ¿no? Estamos
+en el proceso de, de búsqueda de un review. [sonido de notificación] Eh,
+entonces miremos, pues ya es un artículo de, de investigación lo que po-propone
+el profe [sonido de notificación] de cada uno de los nanomateriales, ¿no? Por
+ejemplo, Isabella, que tiene los fullerenos. Juan Esteban, ¿cuál es? ¿Me
+recuerda? ¿Cuál es el nanomaterial? [risas] Joshua. Ah, sí, Joshua sí me
+acuerdo, ¿no? Nanomaterial derivado del cannabis. Eh, Juan Sebastián, ¿cuál es
+el nanomaterial? El de cobalto. Ah, bueno, sí, para óxido de cobalto. Bueno,
+cada uno tiene uno, entonces aprovechemos esa actividad y lo integramos al
+proyecto de, de Dap. Listo, Dap, sí, cuen-cuéntanos. Eh, listo. Lo último es
+que por favor empiecen a usar esta herramienta, que es el razonamiento profundo
+y pues le van a formular eso, por favor. Eh, [tipeo] «Búscame un artículo de
+investigación, eh, de aplicación de fullerenos en el ámbito biomédico y utiliza
+solo referencias del 2023 hacia la actualidad». Entonces, la herramienta del
+Deep Research la tienen disponible tanto-- bueno, ustedes que tienen el correo
+de la Distri, que la Distri pues tiene-- es un correo de Microsoft, ustedes
+tienen el Copilot Pro. Entonces, pueden hacer el Deep Research muy fácilmente.
+Para quienes, digamos, eh, entren a cualquier otra universidad o tengan un
+correo vinculado a Google, lo pueden hacer por Gemini. Este es un método que
+pues está interesante porque les busca artículos. Por ejemplo, acá les busca
+artículos, ehm, respecto a un tema específico. Esto no es para que pues
+empiecen a copiar y pegar, porque no tendría ningún sentido, sino precisamente
+para que ustedes puedan encontrar artículos. O sea, esta es una herramienta
+para encontrar los artículos. Les va a tratar de hacer resúmenes, pero la
+verdad, yo no, yo no le creo a la inteligencia artificial. Le creo cuando ya
+leo y digo: «Ah, bueno, esto sí, esto no, esto sí, esto no». Pues porque la
+inteligencia artificial tiene sus cosas [sonido de notificación], sus
+alucinaciones, sus vainas, pero eso no significa que no sea una buena
+herramienta, por ejemplo, para empezar a encontrar artículos en bases de datos.
+¿Listo? Y eso lo pueden hacer por medio del Deep Research. Eh, lo pueden usar
+tanto con... Acá están todos, por ejemplo, y les saca la lista de todos los
+artículos que se usan. Y de esta manera, pues se vuelve un poquito más fiable
+la inteligencia artificial. En el caso de Gemini, pueden incluir también sus
+notebooks, eh, sus cuadernos de investigación, donde pues ya han subido
+artículos, supongo. Y, eh, pueden, pues digamos, calibrar un poquito esa
+investigación, que no se haga tan, tan compleja a la hora de, de hacer esa
+búsqueda, que antes, por ejemplo, uno se podía demorar diez días haciendo
+búsqueda de artículos, actualmente uno se demora cinco. Entonces es como... O
+sea, aprovechen para usar todas esas herramientas. Y pues si ya tienen un
+artículo definido por el profe Arturo, no sé, profe, ¿ya están definidos o
+ellos tienen que buscar uno? No, apenas comenzaron la, la búsqueda. Ah, bueno,
+pues esta es una gran herramienta para que revisen varios artículos y al final
+se queden con uno, ¿no? Y con eso pues hacen la, la actividad que yo les
+propongo y pues lo que el profe Arturo les vaya a proponer. [risas] Eh, esto no
+reemplaza, por ejemplo, la búsqueda en bases de datos, pero esto es una
+herramienta útil para comenzar cualquier investigación, por ejemplo. Y ya era
+lo último que quería enseñarles. Mmm, gracias, profe, por, por el
