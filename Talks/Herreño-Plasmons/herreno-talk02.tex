@@ -1,0 +1,130 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\DeclareSIUnit\angstrom{\text{\r{A}}}
+
+\raggedbottom
+%%\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[Física de Plasmones]{Física de Plasmones de Superficie y Biosensores:
+Resumen de la Charla del Prof. César Herreño}
+
+\author{\fnm{Julian L.}
+\sur{Avila-Martinez}}\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\abstract{
+Se resume la formulación física y las aplicaciones de la
+resonancia de plasmones de superficie presentadas por César Herreño.
+Se distinguen los mecanismos de confinamiento radiativo y la dispersión modal
+para excitaciones localizadas y propagantes. Se analizan las
+implicaciones del acoplamiento difractivo en redes periódicas y se establecen
+las aplicaciones clínicas y medioambientales de la transducción plasmónica.
+}
+
+\keywords{Plasmónica, relaciones de dispersión, biosensores, anomalías de
+Rayleigh, termodinámica de nanopartículas}
+
+\maketitle
+
+\section{Electrodinámica de Plasmones y Dispersión}
+\label{sec:plasmones}
+
+La excitación colectiva cuantizada del gas de electrones exhibe dos regímenes
+fundamentales determinados por las condiciones de frontera. El primer
+régimen, la resonancia de plasmón de superficie localizado o LSPR, emerge
+cuando la radiación electromagnética polariza una nanopartícula e induce un
+dipolo oscilante. Esta oscilación, confinada espacialmente por la
+morfología superficial, amplifica el campo eléctrico en varios órdenes de
+magnitud dentro de volúmenes nanométricos denominados puntos calientes.
+La disipación térmica de la energía electromagnética absorbida ocurre mediante
+radiación de frenado o bremsstrahlung originada por el dipolo.
+
+El segundo régimen comprende los polaritones de plasmón de superficie, o SPP,
+definidos como excitaciones propagantes a lo largo de una interfaz
+dieléctrico-metal. En el espacio libre surge una restricción
+cinemática fundamental debido a la linealidad de la relación de dispersión del
+fotón incidente frente a la no linealidad de la curva de dispersión del
+plasmón. Esta asimetría impide la conservación del momento bajo iluminación
+directa. La configuración de Kretschmann resuelve este desacople al
+modular el vector de onda del fotón mediante una interfaz de dos materiales
+dieléctricos distintos, satisfaciendo así el ángulo crítico necesario para
+excitar el modo SPP.
+
+\section{Resonancia de Redes y Sensado Optoelectrónico}
+\label{sec:redes}
+
+La maximización de la sensibilidad analítica en biosensores exige una
+estructuración espacial precisa de las nanopartículas. Simulaciones
+computacionales sobre un dominio de \qty{300}{\nano\meter} revelan que la
+respuesta electromagnética de una configuración en heptámero depende
+críticamente de la distancia de separación o gap entre los constituyentes
+individuales. La organización de estas entidades en bases de red
+periódicas como discos, esferas o varillas permite un acoplamiento
+difractivo de los modos LSPR mediado por anomalías de Rayleigh, induciendo la
+resonancia de red de superficie, SLR. Este fenómeno colectivo
+reduce sustancialmente el ancho de línea espectral y eleva la sensibilidad en
+varios órdenes de magnitud respecto a los sistemas LSPR aislados.
+
+\section{Aplicaciones Biológicas y Perspectivas Clínicas}
+\label{sec:aplicaciones}
+
+La espectroscopía SPR permite la cuantificación directa de las afinidades de
+enlace molecular. Mediciones experimentales de la interacción entre
+el rotavirus y proteínas receptoras específicas demuestran que la
+funcionalización proteica con polietilenglicol, PEG, incrementa notablemente
+la sección eficaz de unión viral.
+
+Las aplicaciones tecnológicas de estas configuraciones incluyen la síntesis de
+calcogenuros y óxidos de hierro para remediación ambiental, enfocándose en la
+adsorción de metales pesados dentro de ecosistemas fluviales.
+Paralelamente, se investigan rutas de síntesis verde para nanopartículas de
+plata mediante el uso de biomasa de \textit{Cannabis sativa}. En
+oncología, el mecanismo intrínseco de disipación térmica del régimen LSPR
+fundamenta el diseño de protocolos clínicos que integran radiación ionizante
+con hipertermia localizada.
+
+\end{document}

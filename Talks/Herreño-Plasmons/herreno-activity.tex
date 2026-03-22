@@ -1,0 +1,132 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\raggedbottom
+\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[Mecanismos de Resonancia Plasmónica]{Mecanismos de Resonancia
+Plasmónica y su Aplicación en Biosensado}
+
+\author{\fnm{Julian L.} \sur{Avila-Martinez}}
+\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\maketitle
+
+\section{Características Fundamentales de la Resonancia de Plasmón}
+\label{sec:caracteristicas}
+
+El fenómeno físico de la resonancia de plasmón de superficie exhibe tres
+características principales críticas para las arquitecturas de biosensado.
+Primero, la interacción entre la radiación electromagnética incidente y la
+nanopartícula induce una oscilación colectiva y cuantizada de la nube de
+electrones, creando un dipolo oscilante. Este confinamiento genera regiones
+localizadas de dimensiones sublongitud de onda donde la amplitud del campo
+eléctrico se amplifica en varios órdenes de magnitud. Segundo, la frecuencia
+de resonancia depende intrínsecamente de la estructura morfológica de la
+nanopartícula y de la permitividad del medio dieléctrico circundante. Esta
+dependencia ambiental constituye el mecanismo de transducción para el sensado.
+Tercero, el sistema dinámico disipa una fracción de la energía
+electromagnética absorbida como calor mediante radiación térmica, una
+consecuencia directa de la radiación de frenado durante la oscilación dipolar.
+
+En aplicaciones de biosensado, estas características permiten la determinación
+precisa de las afinidades de enlace molecular. Al monitorear los
+desplazamientos en la condición de resonancia causados por cambios locales en
+el índice de refracción, es posible cuantificar interacciones como la
+capacidad de unión entre un rotavirus y proteínas específicas recubiertas con
+polietilenglicol. Contrario a un tratamiento estrictamente clásico, el origen
+de la resonancia radica en la naturaleza cuantizada del plasmón.
+
+\section{Tipología de las Resonancias Plasmónicas}
+\label{sec:tipologia}
+
+Las condiciones de frontera espaciales impuestas al gas de electrones definen
+tres regímenes resonantes distintos.
+
+La resonancia de plasmón de superficie localizado involucra excitaciones
+confinadas espacialmente a la geometría finita de una nanoestructura. Los
+modos no se propagan y se caracterizan por fuertes amplificaciones del campo
+local.
+
+Los polaritones de plasmón de superficie representan ondas electromagnéticas
+propagantes acopladas a las oscilaciones de densidad de carga en la interfaz
+plana entre un dieléctrico y un conductor. Estos estados requieren
+condiciones específicas de acoplamiento de fase para ser excitados.
+
+La resonancia de red de superficie emerge cuando las nanoestructuras
+individuales se organizan en una base de red periódica. El acoplamiento
+difractivo de los plasmones localizados, mediado por anomalías de Rayleigh en
+el arreglo periódico, hibrida los modos localizados.
+
+Entre estas modalidades, la resonancia de red de superficie posee la mayor
+utilidad para aplicaciones de biosensado. El arreglo periódico suprime el
+amortiguamiento radiativo, conduciendo a una respuesta espectral más estrecha
+y una sensibilidad mejorada que supera las capacidades de la resonancia
+localizada estándar.
+
+\section{Cinemática de la Configuración de Kretschmann}
+\label{sec:kretschmann}
+
+La excitación de un polaritón de plasmón de superficie por un campo
+electromagnético externo está prohibida en el espacio libre debido a una
+violación estricta de la conservación del momento. La relación de dispersión
+de un fotón libre es estrictamente lineal, mientras que la curva de dispersión
+del polaritón de plasmón de superficie es no lineal. En consecuencia, para
+cualquier frecuencia dada, el momento de la onda de superficie excede
+estrictamente al del fotón en el espacio libre.
+
+La configuración de Kretschmann elude esta restricción cinemática al alterar
+la densidad óptica del medio incidente. Emplea un prisma dieléctrico de alto
+índice adyacente a una película metálica delgada. La presencia del dieléctrico
+denso incrementa el vector de onda de la luz incidente. Cuando la radiación
+incidente impacta la interfaz metálica en un ángulo crítico específico, la
+componente paralela del vector de onda del fotón iguala exactamente al vector
+de onda del plasmón en la interfaz opuesta. Este logro del acoplamiento de
+fase facilita la transferencia resonante de energía del campo óptico al modo
+plasmónico propagante.
+
+\end{document}
