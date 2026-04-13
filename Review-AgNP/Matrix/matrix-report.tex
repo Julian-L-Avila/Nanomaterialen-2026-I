@@ -1,0 +1,244 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{geometry}
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage{csquotes}
+\usepackage{tabularx}
+\usepackage{pdflscape}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+	group-separator={\,},
+	separate-uncertainty
+}
+\AtBeginDocument{\decimalpoint}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\raggedbottom
+\unnumbered% uncomment this for unnumbered level heads
+
+\title{Revisión de Literatura sobre Nanopartículas de Plata}
+\author{\fnm{Julian L.} \sur{Avila-Martinez}}
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.}, \country{Colombia}}}
+\email{jlavilam@udistrital.edu.co}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Dinámica de la Literatura y Metodología de Búsqueda}
+El análisis de la literatura reciente sobre nanopartículas de plata (AgNPs)
+revela un sesgo profundo hacia la ingeniería aplicada y la biomedicina. La
+mayoría de los estudios abordan aplicaciones macroscópicas y operativas, tales
+como la administración dirigida de fármacos y la formulación de compuestos
+antimicrobianos. Existe una escasez notable de investigaciones dedicadas
+exclusivamente a los fenómenos físicos fundamentales de las partículas en la
+escala nanométrica, como sus propiedades ópticas no lineales. Este
+comportamiento del campo sugiere que las AgNPs han transitado de la teoría
+física fundamental a la ingeniería aplicada.
+
+La búsqueda que estructura la matriz de revisión obedece a los siguientes
+parámetros lógicos:
+
+\begin{itemize}
+	\item Palabras clave: \enquote{Silver nanoparticles} OR \enquote{AgNPs}
+	\item Rango de tiempo: 2020--2026
+	\item Resultados por base de datos:
+		\begin{itemize}
+			\item Scopus: 6176 resultados
+			\item Science Direct: 5547 resultados
+			\item Springerlink: 4651 resultados
+			\item Web of Science: 494 resultados
+		\end{itemize}
+\end{itemize}
+
+\newpage
+\newgeometry{margin=1cm}
+\begin{landscape}
+	\section{Matriz de Revisión de Literatura}
+	\thispagestyle{empty}
+
+	\begin{table}[htbp!]
+		\caption{Artículos de revisión principales sobre AgNPs.}
+		\label{tab:matriz_agnps}
+		\begin{tabularx}{\linewidth}{
+				>{\raggedright\arraybackslash\hsize=1.0\hsize}X
+				>{\raggedright\arraybackslash\hsize=0.8\hsize}X
+				>{\raggedright\arraybackslash\hsize=1.0\hsize}X
+				>{\raggedright\arraybackslash\hsize=1.6\hsize}X
+				>{\raggedright\arraybackslash\hsize=1.1\hsize}X
+				>{\raggedright\arraybackslash\hsize=0.5\hsize}X
+			}
+			\toprule
+			Título & Autores & Revista & Puntos principales del resumen &
+			Metodología del artículo & Base \\
+			\midrule
+			Silver nanoparticle based polymer composites: synthesis, fabrication
+			and biomedical applications - 2025 \cite{chaionSilverNanoparticleBased2025} &
+			Chaion, M. H. et al. &
+			Inorganic Chemistry Communications &
+			Los compuestos de AgNPs integran efectos antimicrobianos y
+			anticancerígenos. Se revisan métodos ecológicos frente a
+			métodos químicos o físicos de síntesis, examinando su
+			utilidad funcional en ingeniería de tejidos, administración de fármacos
+			y biosensores. Se abordan explícitamente problemas técnicos
+			como la citotoxicidad. &
+			Revisión estructurada de bases de datos científicas.
+			Los artículos seleccionados se categorizaron rigurosamente según sus
+			métodos de síntesis, las matrices de polímeros utilizadas y el
+			rendimiento biológico evaluado. &
+			Science Direct \\
+			\addlinespace
+			A Comprehensive Review of Silver Nanoparticles (AgNPs): Synthesis
+			Strategies, Toxicity Concerns, Biomedical Applications, AI-Driven
+			Advancements - 2025 \cite{hosnyComprehensiveReviewSilver2025} &
+			Hosny, S. et al. &
+			Arabian Journal for Science and Engineering &
+			Análisis de los parámetros termodinámicos que rigen la estabilidad
+			de las AgNPs. Introduce la optimización algorítmica de la síntesis
+			mediante inteligencia artificial para predecir citotoxicidad. &
+			Evaluación sistemática de métodos de síntesis y modelos
+			computacionales predictivos aplicados a la parametrización física
+			en la escala nanométrica. &
+			Web of Science \\
+			\addlinespace
+			Silver nanoparticles (AgNPs) as broad-spectrum antimicrobial agents:
+			synthesis, mechanisms of action, and applications - 2026 \cite{kocSilverNanoparticlesAgNPs2026} &
+			Koç, M. M. et al. &
+			Journal of the Korean Physical Society &
+			Evalúa la dependencia paramétrica entre los métodos de síntesis y
+			la sección eficaz de interacción antimicrobiana. Describe los
+			mecanismos de desintegración estructural a nivel celular. &
+			Análisis correlacional de las técnicas de producción física y
+			química frente a la viabilidad funcional y las restricciones de
+			citotoxicidad de las nanopartículas. &
+			Springerlink \\
+			\addlinespace
+			Silver Nanoparticles (AgNPs), Methods of Synthesis, Characterization,
+			and Their Application: A Review - 2025 \cite{lasmiSilverNanoparticlesAgNPs2025} &
+			Lasmi, F. et al. &
+			Plasmonics &
+			Examina la modulación de atributos físicos a escala atómica y la
+			exigencia de caracterización estructural estricta (XRD, XPS, TEM) para
+			garantizar la viabilidad funcional multimodal. &
+			Revisión exhaustiva de técnicas de síntesis integrando métodos
+			analíticos de caracterización espectroscópica y microscópica. &
+			Web of Science \\
+			\addlinespace
+			Toxicological Aspects, Safety Assessment, and Green Toxicology of
+			Silver Nanoparticles (AgNPs)---Critical Review: State of the Art
+			- 2023 \cite{nogaToxicologicalAspectsSafety2023} &
+			Noga, M. et al. &
+			International Journal of Molecular Sciences &
+			Análisis crítico de la dependencia funcional entre los parámetros
+			fisicoquímicos de las AgNPs y su toxicidad intrínseca. Introduce la
+			\enquote{toxicología verde} para mitigar daños celulares. &
+			Revisión crítica de los mecanismos de toxicidad in vitro e in vivo,
+			formulando directrices de seguridad basadas en la reducción de especies
+			reactivas de oxígeno. &
+			Scopus \\
+			\addlinespace
+			Nonlinear Optical Properties of Silver Nanoparticles: A Comprehensive
+			Review - 2025 \cite{qayyumNonlinearOpticalProperties2025} &
+			Qayyum, H. et al. &
+			Laser Innovations for Research and Applications &
+			Examina la polarización no lineal de las AgNPs bajo campos
+			electromagnéticos intensos. Reporta fenómenos de absorción saturable
+			inversa y autodesenfoque espacial derivado de un índice de refracción
+			no lineal negativo. &
+			Análisis teórico de la susceptibilidad óptica de tercer orden y la
+			lente térmica acumulativa inducida por excitación con pulsos láser de
+			femtosegundos. &
+			Springerlink \\
+			\addlinespace
+			Silver Nanoparticles (AgNPs): Comprehensive Insights into Bio/Synthesis,
+			Key Influencing Factors, Multifaceted Applications, and Toxicity---A
+			2024 Update - 2025 \cite{satiSilverNanoparticlesAgNPs2025} &
+			Sati, A. et al. &
+			ACS Omega &
+			Subraya la dependencia funcional de las propiedades ópticas y
+			electrónicas de las AgNPs respecto a su método de síntesis[cite: 6].
+			Argumenta la superioridad de las rutas biológicas debido a su
+			estabilidad intrínseca y baja reactividad parásita[cite: 6]. &
+			Análisis comparativo que contrasta la exigencia energética y la
+			complejidad de purificación de enfoques físicos y químicos con la
+			viabilidad de la síntesis verde mediada por fitoquímicos[cite: 6]. &
+			Scopus \\
+			\bottomrule
+		\end{tabularx}
+	\end{table}
+\end{landscape}
+
+\newpage
+\newgeometry{margin=1cm}
+\begin{landscape}
+	\thispagestyle{empty}
+
+	\begin{table}[htbp!]
+		\caption{Continuación \cref{tab:matriz_agnps}}
+		\begin{tabularx}{\linewidth}{
+				>{\raggedright\arraybackslash\hsize=1.0\hsize}X
+				>{\raggedright\arraybackslash\hsize=0.8\hsize}X
+				>{\raggedright\arraybackslash\hsize=1.0\hsize}X
+				>{\raggedright\arraybackslash\hsize=1.6\hsize}X
+				>{\raggedright\arraybackslash\hsize=1.1\hsize}X
+				>{\raggedright\arraybackslash\hsize=0.5\hsize}X
+			}
+			\toprule
+			Título & Autores & Revista & Puntos principales del resumen &
+			Metodología del artículo & Base \\
+			\midrule
+						\addlinespace
+			Plant-based synthesis, characterization approaches, applications and
+			toxicity of silver nanoparticles: A comprehensive review - 2024
+			\cite{thomasPlantbasedSynthesisCharacterization2024} &
+			Thomas, S. et al. &
+			Journal of Biotechnology &
+			Evalúa la síntesis verde mediada por biomoléculas vegetales que
+			actúan simultáneamente como agentes reductores y estabilizadores.
+			Examina la viabilidad catalítica y las restricciones de toxicidad. &
+			Revisión sistemática de rutas de síntesis biogénica, integrando
+			perfiles de caracterización física y evaluaciones de citotoxicidad. &
+			Science Direct \\
+			\bottomrule
+		\end{tabularx}
+	\end{table}
+\end{landscape}
+
+\restoregeometry
+\newpage
+
+\bibliography{./Silver-Nano-Particles.bib}
+
+\end{document}

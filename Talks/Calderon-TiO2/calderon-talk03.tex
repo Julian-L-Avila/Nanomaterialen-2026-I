@@ -1,0 +1,138 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\DeclareSIUnit\angstrom{\text{\r{A}}}
+
+\raggedbottom
+\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[Nanoestructuras de \ce{TiO2}]{Física de Nanoestructuras de \ce{TiO2} y
+Biosensores: Resumen de la Charla del Prof. J. A. Calderón Córbita}
+
+\author{\fnm{Julian L.}
+\sur{Avila-Martinez}}\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\abstract{
+Se presenta una formulación sintética y conceptual sobre la termodinámica de
+formación y propiedades físicas de nanoestructuras de dióxido de titanio.
+Se contrastan los mecanismos de nucleación por deposición química frente a la
+anodización electroquímica. Adicionalmente, se precisan
+las fases cristalográficas del material, su comportamiento como cristal fotónico
+y las condiciones de frontera electromagnéticas que posibilitan la transducción
+capacitiva en arreglos de biosensores.
+}
+
+\keywords{Dióxido de titanio, anodización electroquímica, cristales fotónicos,
+minimización de energía, biosensores capacitivos}
+
+\maketitle
+
+\section{Termodinámica de la Síntesis y Auto-organización}
+\label{sec:sintesis}
+
+La generación de heteroestructuras en estado sólido exige el control preciso
+del transporte de masa y energía en la interfase dieléctrico-metal.
+El crecimiento mediante deposición por baño químico obedece a fuerzas de
+adsorción débiles, como las interacciones de Van der Waals o puentes de
+hidrógeno, requiriendo una excitación térmica del sustrato amorfo para inducir
+la nucleación.
+
+En riguroso contraste, la síntesis de nanotubos de \ce{TiO2} constituye un
+mecanismo reducto-oxidativo y corrosivo impulsado netamente por un campo
+eléctrico externo. Al sumergir un ánodo de titanio
+en un electrolito fluorado acuoso, emerge una dinámica competitiva: la rápida
+oxidación del metal de transición y la subsecuente disolución espacialmente
+localizada de dicho óxido mediada por iones flúor.
+La minimización del funcional de acción y la energía libre del sistema exige
+que la configuración morfológica colapse de manera espontánea en una red
+hexagonal compacta, optimizando la distribución espacial y maximizando el
+área superficial activa. La geometría resultante
+depende de la interdependencia estricta entre el potencial aplicado,
+la concentración iónica y la estequiometría del solvente.
+
+\section{Cristalografía y Respuesta Dieléctrica}
+\label{sec:cristalografia}
+
+La estabilización cristalográfica del \ce{TiO2} exhibe un acentuado
+polimorfismo térmico. Las configuraciones de red evolucionan hacia estructuras
+de rutilo o anatasa tras procesos de recocido, siendo el rutilo el estado base
+de menor energía y mayor estabilidad mecánica frente a la ruptura dieléctrica.
+
+En el régimen de dispersión electrónica, el \ce{TiO2} opera como un
+semiconductor de banda ancha, caracterizado por una brecha de energía prohibida
+comprendida entre \qty{3.0}{\electronvolt} y \qty{3.3}{\electronvolt}.
+Esta asimetría en los estados de conducción induce una alta
+transmitancia en el espectro visible (longitudes de onda superiores a
+\qty{510}{\nano\meter}) mientras confina la absorción electromagnética al
+régimen ultravioleta.
+
+La morfología tubular introduce una perturbación nanométrica periódica en la
+constante dieléctrica del medio (alternando \ce{TiO2} y vacío). Esta asimetría
+espacial actúa como una red de difracción, filtrando selectivamente los modos
+electromagnéticos permitidos y otorgando a la matriz un carácter de cristal
+fotónico con fuerte respuesta iridiscente.
+Adicionalmente, se puede modificar el comportamiento puramente diamagnético del
+óxido al dopar la matriz cristalográfica con impurezas de cobalto. Al sustituir
+sitios atómicos de titanio, el cobalto aporta espines desapareados en la capa
+$3d$, introduciendo momentos magnéticos acoplables a campos externos.
+
+\section{Transducción Funcional en Biosensores}
+\label{sec:biosensores}
+
+La configuración topológica de los nanotubos provee una plataforma idónea para
+la inmovilización de secuencias de oligonucleótidos. El diseño
+de estas cadenas de ADN con alta afinidad selectiva hacia analitos específicos
+(e.g., ketamina) induce un estado ligado dictado por el decaimiento abrupto de
+la energía libre de Gibbs. La captura electroquímica del
+analito desencadena una transición electrónica espontánea, inyectando
+portadores de carga a través de grupos fosfato y nitrilo hacia la red
+semiconductora subyacente. Este desbalance en la densidad de
+estados superficial se manifiesta de forma determinista como una perturbación
+puramente capacitiva, consolidando al sistema como un transductor
+optoelectrónico de alta resolución geométrica.
+
+\end{document}
