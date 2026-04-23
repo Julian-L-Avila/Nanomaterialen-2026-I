@@ -1,0 +1,154 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+\usepackage{braket}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\raggedbottom
+\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[Fundamentos de DFT y STM]{Características Matemáticas de la Teoría del
+Funcional de la Densidad y Principios de la Microscopía de Efecto Túnel}
+
+\author{\fnm{Julian L.} \sur{Avila-Martinez}}
+\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\maketitle
+
+\section{Características y Formulación Matemática de la Teoría del Funcional de
+la Densidad (DFT)}
+
+\subsection{El Espacio de Hilbert y el Problema de Muchos Cuerpos}
+
+En la formulación estricta de la mecánica cuántica no relativista, el estado
+puramente electrónico de un sistema de $N$ fermiones interactuantes se describe
+mediante un vector de estado $\ket{\Psi}$ que pertenece al espacio de Hilbert
+antisimetrizado $\mathcal{H}_N = \bigwedge_{i=1}^N L^2(\mathbb{R}^3) \otimes
+\mathbb{C}^2$. La evolución estática del sistema está gobernada por el espectro
+del hamiltoniano $H$, el cual, bajo la aproximación de Born-Oppenheimer,
+se expresa a través del siguiente álgebra de operadores:
+\begin{equation}
+    H = T + V_{ee} + V_{\text{ext}}
+\end{equation}
+donde $T$ es el operador de energía cinética, $V_{ee}$ representa la interacción repulsiva de Coulomb
+interelectrónica, y $V_{\text{ext}}$ es el potencial externo multiplicativo
+(principalmente debido a la configuración de los núcleos).
+
+La función de onda proyectada en la base de coordenadas $\Psi(\mathbf{r}_1, s_1, \dots, \mathbf{r}_N, s_N) = \braket{\mathbf{r}_1, s_1, \dots, \mathbf{r}_N, s_N | \Psi}$ depende explícitamente de $3N$ grados de libertad espaciales. Como se evidencia en sistemas físicos realistas, esta expansión dimensional prohíbe la resolución directa de la ecuación de autovalores $H\ket{\Psi} = E\ket{\Psi}$, dado que el costo computacional crece factorialmente.
+
+\subsection{El Mapeo Funcional: Densidad y Vector de Estado} 
+
+El aporte epistemológico y matemático fundamental de la Teoría del Funcional de la
+Densidad radica en abandonar a $\ket{\Psi}$ como la variable primordial del
+sistema. Los teoremas de Hohenberg-Kohn establecen una correspondencia biyectiva
+estricta entre el potencial externo $v_{\text{ext}}(\mathbf{r})$ (salvo una constante
+aditiva) y la densidad electrónica del estado fundamental $n(\mathbf{r})$.
+
+Matemáticamente, la densidad se define como el valor esperado del operador
+densidad de partículas:
+\begin{equation}
+    n(\mathbf{r}) = \braket{\Psi | n(\mathbf{r}) | \Psi} = N \sum_{s_1 \dots
+    s_N} \int \lvert\Psi(\mathbf{r}, \mathbf{r}_2, \dots, \mathbf{r}_N)\rvert^2
+    d^3r_2 \dots d^3r_N
+\end{equation}
+
+Dado que el potencial externo $v_{\text{ext}}(\mathbf{r})$ fija el hamiltoniano $H$, y este a su vez determina el estado fundamental $\ket{\Psi_0}$, existe un mapeo único $n(\mathbf{r}) \mapsto \ket{\Psi_0[n]}$. En consecuencia, toda propiedad observable del
+estado fundamental es, por definición, un funcional matemático de la densidad
+espacial $n(\mathbf{r})$. El funcional de energía total se reescribe
+rigurosamente como
+\begin{equation}
+    E[n] = F_{HK}[n] + \int v_{\text{ext}}(\mathbf{r})n(\mathbf{r}) d^3r
+\end{equation}
+donde $F_{HK}[n] = \braket{\Psi[n] | T + V_{ee} | \Psi[n]}$ es un funcional universal independiente del sistema específico.
+
+\subsection{Valor Computacional y Resolución Autoconsistente} 
+
+El inmenso valor computacional de la DFT reside en que el principio variacional de Rayleigh-Ritz ya no se efectúa sobre el espacio $\mathcal{H}_N$ de $3N$ dimensiones, sino sobre el conjunto de funciones de densidad en $\mathbb{R}^3$. Esta compresión topológica hace que la tratabilidad de cristales y macro-moléculas sea viable.
+
+Al desconocer la forma analítica exacta de los términos de intercambio y
+correlación dentro del funcional, la resolución computacional requiere un
+esquema iterativo no lineal conocido como campo autoconsistente (SCF). Conceptualmente, el procedimiento inicia con una densidad electrónica de prueba
+empírica $n_{0}(\mathbf{r})$. Con ella, se evalúan los operadores efectivos del
+sistema, permitiendo la diagonalización espectral del modelo de partículas
+independientes. La solución de este sistema genera un nuevo conjunto de
+autoestados que, al proyectarse, construyen una densidad actualizada $n_{1}(\mathbf{r})$.
+
+Este ciclo algebraico se itera numéricamente ($\dots \to n_k \to n_{k+1} \to \dots$) hasta que la norma de la diferencia estocástica entre densidades sucesivas $\lVert n_{k+1}(\mathbf{r}) - n_k(\mathbf{r}) \rVert$ es menor a un umbral de tolerancia predefinido, garantizando que el sistema ha minimizado la hiper-superficie de energía del funcional.
+
+\section{Principio de Funcionamiento del Microscopio de Efecto Túnel (STM)}
+
+El microscopio de efecto túnel (STM) se aparta conceptualmente de las
+herramientas ópticas convencionales; su funcionamiento no depende de la
+refracción fotónica ni de interacciones macroscópicas, sino que explota
+directamente la naturaleza probabilística de la mecánica cuántica a través del
+efecto túnel.
+
+En el diseño experimental, se aproxima una punta conductora (idealmente
+fabricada en tungsteno y cortada de tal forma que termine geométricamente en un
+único átomo) a la superficie de la muestra a distancias del orden de fracciones
+de nanómetro, dentro de una cámara de ultra alto vacío. Desde la perspectiva
+analítica clásica, el vacío entre la punta y el sustrato representa una barrera
+de potencial infinita para los portadores de carga. Sin embargo, al resolver la
+ecuación de Schrödinger para la función de onda de un electrón en la superficie
+metálica, las soluciones permitidas presentan decaimientos exponenciales en la
+región clásicamente prohibida (el vacío).
+
+Al inducir una diferencia de potencial (voltaje de sesgo, $V$) entre la punta y
+el sustrato, las funciones de onda evanescentes de ambos electrodos se solapan,
+habilitando una probabilidad de transición distinta de cero. En la formulación
+de teoría de perturbaciones dependiente del tiempo de Bardeen, la corriente de
+tunelamiento resultante $I$ a bajas temperaturas se aproxima a
+\begin{equation}
+    I \propto \int_{0}^{eV} \rho_s(E) \rho_t(E - eV) \mathcal{T}(E, V, d) d E
+\end{equation}
+donde $\rho_s$ y $\rho_t$ son las densidades de estados del sustrato y la punta,
+respectivamente, y $\mathcal{T}$ es el coeficiente de transmisión que decae
+exponencialmente como $\sim \exp(-2\kappa d)$, siendo $d$ la distancia de
+separación.
+
+El rasgo físico fundamental del STM es que la imagen generada no representa una topografía física rígida; es una convolución espacial de la densidad de carga. Regiones interpretadas como ``luminosas'' u ``oscuras'' en la imagen obtenida
+corresponden estrictamente a máximos y mínimos de la Densidad Local de Estados (LDOS). Esto permite elucidar tanto la conformación geométrica del retículo (o de las moléculas adsorbidas) como sus propiedades electrónicas superficiales con resolución sub-angstrom.
+
+\end{document}

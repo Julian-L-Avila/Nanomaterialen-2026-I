@@ -1,0 +1,70 @@
+\section{Reducción de Dimensionalidad y el Hamiltoniano Cuántico}
+\label{sec:reduccion}
+
+La resolución directa de la ecuación de Schrödinger independiente del tiempo
+para sistemas de muchos cuerpos presenta un desafío computacional intratable
+debido a la explosión combinatoria de los grados de libertad.  Para un sistema
+compuesto por $N$ partículas, la función de onda $\Psi$ reside en un espacio de
+configuración abstracto de $3N$ dimensiones. Como se ilustró en la ponencia, la
+discretización espacial exhaustiva de un sistema diatómico simple exigiría
+recursos computacionales y tiempos de procesamiento que superan escalas
+cosmológicas.
+
+Para sortear esta catástrofe de dimensionalidad, se recurre a la Teoría del
+Funcional de la Densidad (DFT). Este marco teórico establece que el estado
+fundamental de un sistema cuántico está unívocamente determinado por su densidad
+electrónica espacial, $n(\mathbf{r})$. Esta formulación mapea el problema
+original a un espacio vectorial de estrictamente tres dimensiones, permitiendo
+la minimización del funcional de energía sin requerir el cálculo explícito de la
+hiperfunción de onda electrónica. No obstante, la evaluación de las métricas
+dinámicas fuera del equilibrio, como el transporte electrónico impulsado por
+diferencias de potencial, sigue exigiendo acoplamientos no triviales con
+funciones de Green para mitigar el costo del análisis.
+
+\section{Física de Superficies y Mapeo por Efecto Túnel}
+\label{sec:superficies}
+
+A escala nanométrica, las propiedades macroscópicas de los cristales están
+dictadas por su simetría topológica y la periodicidad espacial de su red
+atómica, con independencia estricta de su homogeneidad química. La dramática
+divergencia en el comportamiento conductor y en la sección eficaz óptica entre
+el diamante, el grafito y el grafeno evidencia cómo la geometría del retículo
+gobierna los autovalores energéticos del sistema.
+
+La validación empírica de estas arquitecturas y de los mecanismos de adsorción
+se realiza mediante instrumentación en condiciones de ultra alto vacío,
+notablemente mediante la microscopía de efecto túnel (STM). Este método no mide
+la topografía geométrica clásica, sino que explota el tunelamiento de la función
+de onda electrónica a través de una barrera de potencial hacia el sustrato. La
+corriente eléctrica mapea la densidad local de estados (LDOS), revelando los
+dominios espaciales de alta probabilidad electrónica. El complemento analítico
+recae en la espectroscopía de fotoelectrones de rayos X (XPS), indispensable
+para resolver el grado de hibridación orbital y la pureza química en la
+estructura de bandas.
+
+\section{Dinámica de Intercalación y Modulación del Transporte}
+\label{sec:intercalacion}
+
+La funcionalización de superficies de baja dimensionalidad actúa como un
+operador que perturba el hamiltoniano del material anfitrión, modificando el
+transporte intrínseco mediante dopaje directo o ensamblaje supramolecular.
+Análisis teóricos demuestran que la quimisorción de cadenas de aminoácidos sobre
+redes bidimensionales de grafeno induce asimetrías severas en las curvas de
+corriente-voltaje; dichas perturbaciones locales imponen un comportamiento
+análogo al de un transistor molecular de rectificación direccional.
+
+En el contexto termodinámico del almacenamiento de energía, se contrastó
+matemáticamente el mecanismo de intercalación del cloruro de aluminio
+(\ce{AlCl4-}) frente a los convencionales iones de litio en redes de grafito.
+Las predicciones teóricas concluyeron que las moléculas intercalantes de
+aluminio franquean menores barreras de difusión y presentan estabilidades
+estructurales competitivas frente a sus contrapartes iónicas. La simulación de
+interacciones intermoleculares evidenció un comportamiento altamente no lineal
+donde la penetración escapa a distribuciones gaussianas isotrópicas; en su
+lugar, se agregan bajo mecanismos de etapas mixtas (mixed-stage) creando
+distribuciones espacialmente discretas de clústeres. Esta estratificación local
+induce tensores de estrés significativos sobre la red cristalina, lo que limita
+la invariancia estructural y condiciona la reversibilidad funcional del
+material.
+
+\end{document}

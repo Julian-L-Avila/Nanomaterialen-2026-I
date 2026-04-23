@@ -1,0 +1,77 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\DeclareSIUnit\angstrom{\text{\r{A}}}
+
+\raggedbottom
+\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[Diseño de Nanomateriales]{Diseño de Nanomateriales y Teoría del Funcional
+de la Densidad: Resumen de la Charla de Sindy J. Rodriguez}
+
+\author{\fnm{Julian L.}
+\sur{Avila-Martinez}}\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\abstract{
+  Se expone la sinergia entre el modelamiento computacional y la caracterización
+  experimental en el diseño de nanomateriales. Se analiza la reducción de
+  dimensionalidad del problema de muchos cuerpos a través de la Teoría del
+  Funcional de la Densidad (DFT) y su correspondencia con observaciones
+  empíricas mediante microscopía de efecto túnel (STM). Adicionalmente, se
+  examina la dinámica de intercalación para el almacenamiento de energía y la
+  funcionalización de superficies para modular el transporte electrónico
+  multidimensional.
+}
+
+\keywords{Teoría del funcional de la densidad, nanomateriales, microscopía de
+efecto túnel, física de superficies, hamiltonianos de transporte}
+
+\maketitle
+
+\input{./sections/summary-rodriguez.tex}
+
+\end{document}
