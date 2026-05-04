@@ -1,0 +1,90 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+\usepackage{algorithm}%
+\usepackage{algorithmicx}%
+\usepackage{algpseudocode}%
+\usepackage{listings}%
+\usepackage{lmodern}%
+\usepackage{siunitx}
+\usepackage{microtype}
+\usepackage{derivative}
+\usepackage[version=4]{mhchem}
+\usepackage{cleveref}
+\usepackage[spanish]{babel}
+
+\renewcommand{\arraystretch}{1.2}
+\sisetup{group-digits=true,
+  group-separator={\,},
+  separate-uncertainty
+}
+
+\theoremstyle{thmstyleone}%
+\newtheorem{theorem}{Teorema}%
+\newtheorem{proposition}[theorem]{Proposición}%
+
+\theoremstyle{thmstyletwo}%
+\newtheorem{example}{Ejemplo}%
+\newtheorem{remark}{Observación}%
+
+\theoremstyle{thmstylethree}%
+\newtheorem{definition}{Definición}%
+
+\DeclareSIUnit\angstrom{\text{\r{A}}}
+
+\raggedbottom
+\unnumbered% uncomment this for unnumbered level heads
+
+\begin{document}
+
+\title[]{}
+
+\author{\fnm{Julian L.}
+\sur{Avila-Martinez}}\email{jlavilam@udistrital.edu.co}
+
+\affil{\orgdiv{Programa Académico de Física}, \orgname{Universidad Distrital
+Francisco José de Caldas}, \orgaddress{\city{Bogotá D.C.},
+\country{Colombia}}}
+
+\abstract{
+  Este artículo analiza las deficiencias epistemológicas y sociopolíticas en la
+conceptualización de la nanotecnología. Se examina cómo la
+historiografía del campo se fundamenta en mitos, ignorando que la verdadera
+génesis disciplinar reside en los avances de la física fundamental.
+Se demuestra que la métrica estándar de 1 a 100 nanómetros carece de rigor, al
+eludir la fenomenología cuántica y termodinámica que define la escala
+. Esta ceguera ontológica legitima un modelo de política pública
+basado en el utilitarismo de la aplicación inmediata. Mediante el
+caso de Colombia, se expone cómo la exigencia de innovación sin una inversión
+proporcional en ciencia básica condena a las naciones en desarrollo a la
+dependencia tecnológica y al estancamiento estructural.
+}
+
+\keywords{Nanotecnología, epistemología de la física,
+política científica, fenomenología cuántica, ciencia básica, desarrollo
+tecnológico.}
+
+\maketitle
+
+\input{./sections/intro.tex}
+
+\input{./sections/feynman-myth.tex}
+
+\input{./sections/nanotech-definition.tex}
+
+\input{./sections/proper-definition.tex}
+
+\input{./sections/application-as-detour.tex}
+
+\input{./sections/conclusion.tex}
+
+\end{document}
