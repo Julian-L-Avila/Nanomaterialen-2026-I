@@ -1,0 +1,29 @@
+\documentclass[tikz,border=2mm]{standalone}
+
+% Define logo colors approximating the provided image
+\definecolor{logored}{HTML}{D63644}
+\definecolor{logoyellow}{HTML}{F4E13B}
+\definecolor{logoorange}{HTML}{F39B35}
+
+\begin{document}
+
+\begin{tikzpicture}
+
+  % 1. Yellow Squares
+  \begin{scope}[shift={(-1.05, 1.1)}, rotate=-10]
+    \fill[logoyellow] (0,0) rectangle (1.25, 1.25);
+  \end{scope}
+  \begin{scope}[shift={(-2.5, 0.1)}, rotate=-10]
+    \fill[logoyellow] (0,0) rectangle (1.25, 1.25);
+  \end{scope}
+
+  % 2. Red Circle
+  \fill[logored] (-0.25, -0.1) circle (0.9);
+
+  % 3. Orange Bar
+  \draw[logoorange, line width=20pt, line cap=round]
+    (-2.1, -2.8) -- (2.5, 0.1);
+
+\end{tikzpicture}
+
+\end{document}
