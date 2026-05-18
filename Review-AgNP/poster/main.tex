@@ -60,7 +60,7 @@
 
     % Nodo de título recalibrado al centro exacto del área naranja (12.5 / 2 = 6.25)
     \node[anchor=center, align=center, text=white, text width=0.9\paperwidth] at (\paperwidth/2, 6.25) {
-      {\fontsize{70}{85}\selectfont \textbf{\inserttitle} \par}
+      {\fontsize{70}{85}\selectfont \spaceskip=0.4em \textbf{\inserttitle} \par}
       \vspace{0.6cm}
       {\Large \insertauthor \par}
       \vspace{0.25cm}
@@ -98,11 +98,20 @@
       \Large Facultad de Ciencias Matemáticas y Naturales
     };
 
-    % Right QR code anchored to the east
-    \node[anchor=east, inner sep=0pt] at (bot-right) {
-      \includegraphics[height=10cm]{./figures/qr-git.pdf}
+  \usebeamercolor{headline}
+  \node[
+    anchor=east,
+    fill=bg,
+    text=white,
+    rounded corners=0.5cm,
+    inner sep=0.5cm,
+    align=center
+    ] at (bot-right) {
+      {\large Referencias} \\[0.3cm]
+      \includegraphics[width=8cm, height=8cm, keepaspectratio]{./figures/qr-bib.pdf}
     };
-  \end{tikzpicture}
+
+\end{tikzpicture}
 }
 
 \begin{document}
@@ -121,10 +130,17 @@
     bioquímica y el amortiguamiento plasmónico resulta imperativo para
     desarrollar modelos teóricos unificados y dispositivos optoelectrónicos
     viables.
+
+    \smallskip
+    \textbf{Palabras clave:} Nanopartículas de plata, resonancia de plasmón
+    de superficie localizado, óptica no lineal, síntesis biogénica,
+    absorción inversa saturable.
   \end{block}
 
+  \vspace{-1.cm}
+
   \begin{columns}[t]
-    \begin{column}{0.45\textwidth}
+    \begin{column}{0.48\textwidth}
 
       \begin{block}{Introducción}
         El confinamiento espacial de la materia a la nanoescala rompe la
@@ -145,14 +161,21 @@
         destiló un corpus final de 43 artículos experimentales y teóricos.
       \end{block}
 
-      \begin{block}{Resultados Bibliométricos}
-        \begin{itemize}
-          \item La red de palabras clave bifurca el campo de estudio entre la física fundamental (escaneo Z, óptica no lineal) y la ciencia de biomateriales.
-          \item El análisis de afiliaciones muestra una concentración investigativa predominante en el Sur Global.
-          \item La investigación experimental está liderada de forma significativa por India, China y Egipto.
-        \end{itemize}
+      \begin{block}{Naturaleza de las AgNPs}
+        Las nanopartículas de plata (AgNPs) constituyen sistemas mesoscópicos
+        formados por agregados de plata elemental con dimensiones críticas en el
+        rango de 1 a 100 nanómetros. El confinamiento espacial de los electrones
+        de conducción en estas geometrías altera la función de respuesta
+        dieléctrica respecto al material masivo. Esta reducción dimensional
+        determina la aparición de la resonancia de plasmón de superficie
+        localizado (LSPR), un fenómeno electrodinámico colectivo donde la
+        densidad de carga electrónica oscila de forma coherente en fase con un
+        campo electromagnético excitador.
+      \end{block}
 
-        \vspace{-1cm}
+      \begin{block}{Resultados Bibliométricos}
+
+        \vspace{-0.5cm}
 
         \begin{figure}[htbp]
           \centering
@@ -161,55 +184,27 @@
           clústeres de síntesis verde y caracterización óptica.}
         \end{figure}
 
-        \vspace{-1cm}
+        \vspace{-1.5cm}
 
         \begin{figure}[htbp!]
           \centering
-          \begin{tikzpicture}
-            \begin{axis}[
-              ybar,
-              bar width=15pt,
-              width=\textwidth,
-              height=8cm,
-              ylabel={Publicaciones},
-              symbolic x coords={India, China, Egipto, Arabia Saudita, Indonesia,
-                Bangladés, Sudáfrica, Brasil, Rusia, México,
-              EAU, Argelia},
-              xtick=data,
-              xticklabel style={rotate=45, anchor=east, font=\small},
-              nodes near coords,
-              nodes near coords align={vertical},
-              ymin=0,
-              ymax=18,
-              enlarge x limits=0.08,
-              axis lines*=left,
-              ymajorgrids=true,
-              grid style=dashed,
-              ]
-
-              \addplot[fill=RoyalPurple, draw=RoyalPurple!80!black, thick] coordinates {
-                  (India, 15)
-                  (China, 8)
-                  (Egipto, 5)
-                  (Arabia Saudita, 4)
-                  (Indonesia, 3)
-                  (Bangladés, 2)
-                  (Sudáfrica, 2)
-                  (Brasil, 2)
-                  (Rusia, 1)
-                  (México, 1)
-                  (EAU, 1)
-                  (Argelia, 1)
-                };
-            \end{axis}
-          \end{tikzpicture}
-          \vspace{-2.0cm}
+          \includegraphics[height=12cm, width=0.9\textwidth, keepaspectratio]{./figures/barr.pdf}
+          \vspace{-1.5cm}
           \caption{Distribución geográfica destacando el liderazgo del Sur Global.}
         \end{figure}
       \end{block}
     \end{column}
 
-    \begin{column}{0.45\textwidth}
+    \begin{column}{0.48\textwidth}
+      \begin{itemize}
+        \item La red de palabras clave bifurca el campo de estudio entre la
+          física fundamental (escaneo Z, óptica no lineal) y la ciencia de
+          biomateriales.
+        \item El análisis de afiliaciones muestra una concentración
+          investigativa predominante en el Sur Global.
+        \item La investigación experimental está liderada de forma significativa
+          por India, China y Egipto.
+      \end{itemize}
       \begin{block}{Síntesis Biogénica y Verde}
         \begin{itemize}
           \item Transición termodinámica desde rutas químicas hacia métodos
@@ -280,11 +275,6 @@
         heteroestructuras bidimensionales y un control estricto de la
         fotodegradación bajo alta fluencia.
       \end{alertblock}
-
-      \begin{block}{Referencias}
-        \centering
-        \includegraphics[width=6cm]{./figures/qr-bib.pdf}
-      \end{block}
     \end{column}
   \end{columns}
 \end{frame}
